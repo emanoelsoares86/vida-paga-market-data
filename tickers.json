@@ -1,0 +1,22 @@
+{
+  "fiis": [
+    "HGLG11.SA",
+    "KNCR11.SA",
+    "KNRI11.SA",
+    "TRXF11.SA",
+    "XPML11.SA",
+    "MXRF11.SA"
+  ],
+
+  "acoes": [
+    "BBAS3.SA",
+    "PETR4.SA",
+    "ITUB4.SA",
+    "VALE3.SA"
+  ],
+
+  "etfs": [
+    "BOVA11.SA",
+    "IVVB11.SA"
+  ]
+}
