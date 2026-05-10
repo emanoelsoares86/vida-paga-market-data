@@ -40,4 +40,4 @@ jobs:
 
           git commit -m "Atualização automática market data" || echo "Sem alterações"
 
-          git push
+          git push origin HEAD:market-data
