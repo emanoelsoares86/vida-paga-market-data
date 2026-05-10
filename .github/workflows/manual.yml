@@ -1,0 +1,43 @@
+name: Atualizar Market Data
+
+on:
+  schedule:
+    # Todos os dias às 19h UTC
+    - cron: '0 22 * * *'
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependências
+        run: |
+          pip install -r requirements.txt
+
+      - name: Executar script
+        run: |
+          python main.py
+
+      - name: Commitar arquivos atualizados
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add ativos.csv ativos.json
+
+          git commit -m "Atualização automática market data" || echo "Sem alterações"
+
+          git push
