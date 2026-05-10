@@ -1,23 +1,20 @@
 import yfinance as yf
 import pandas as pd
 from datetime import datetime
+import json
 
 # ==========================================
-# CONFIG
+# LOAD TICKERS
 # ==========================================
 
-TICKERS = [
-    "HGLG11.SA",
-    "KNCR11.SA",
-    "KNRI11.SA",
-    "TRXF11.SA",
-    "XPML11.SA",
-    "MXRF11.SA",
-    "BBAS3.SA",
-    "PETR4.SA",
-    "ITUB4.SA",
-    "VALE3.SA"
-]
+with open("tickers.json", "r", encoding="utf-8") as file:
+    ticker_data = json.load(file)
+
+TICKERS = (
+    ticker_data["fiis"]
+    + ticker_data["acoes"]
+    + ticker_data["etfs"]
+)
 
 # ==========================================
 # HELPERS
