@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout main
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Configurar Python
@@ -26,30 +26,17 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Executar script
+      - name: Rodar script
         run: |
           python main.py
 
-      - name: Configurar Git
+      - name: Commitar arquivos
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
 
-      - name: Trocar para branch market-data
-        run: |
-          git fetch origin
-
-          if git show-ref --verify --quiet refs/remotes/origin/market-data
-          then
-            git checkout market-data
-          else
-            git checkout --orphan market-data
-          fi
-
-      - name: Commitar market data
-        run: |
           git add -f ativos.json ativos.csv
 
           git commit -m "Atualização automática market data" || echo "Sem alterações"
 
-          git push origin market-data
+          git push
