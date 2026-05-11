@@ -36,7 +36,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          git add ativos.csv ativos.json
+          git add -f ativos.csv ativos.json
 
           git commit -m "Atualização automática market data" || echo "Sem alterações"
 
