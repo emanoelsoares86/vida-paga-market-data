@@ -46,11 +46,6 @@ jobs:
             git checkout --orphan market-data
           fi
 
-      - name: Copiar arquivos gerados
-        run: |
-          cp ativos.json .
-          cp ativos.csv .
-
       - name: Commitar market data
         run: |
           git add -f ativos.json ativos.csv
