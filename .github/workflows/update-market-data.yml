@@ -34,9 +34,11 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-
+      
           git add -f ativos.json ativos.csv
-
+      
           git commit -m "Atualização automática market data" || echo "Sem alterações"
-
-          git push
+      
+          git pull origin main --rebase
+      
+          git push origin main
