@@ -1,14 +1,127 @@
 ﻿Ticker,Nome,Categoria,Setor,Preço Atual,Dividendos 12M,DY (%),P/VP,Liquidez,Patrimônio,Atualizado Em
-HGLG11,Cshg Logistica - Fundo De Investimento Imobiliario,FII/UNIT,Real Estate,R$ 155.20,R$ 13.20,8.51%,0.98,94.25K,R$ 5.24B,2026-05-14 22:57:05
-KNCR11,Kinea Rendimentos Imobiliários Fundo de Investimento Imobiliário - FII,FII,Real Estate,R$ 105.65,R$ 14.63,13.84%,1.05,195.65K,R$ 8.11B,2026-05-14 22:57:05
-KNRI11,Kinea Renda Imobiliária Fundo de Investimento Imobiliário,FII/UNIT,Real Estate,R$ 159.60,R$ 12.43,7.79%,1.0,46.11K,R$ 4.50B,2026-05-14 22:57:06
-TRXF11,TRX REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII,FII,Real Estate,R$ 91.78,R$ 10.88,11.85%,0.0,265.94K,R$ 2.98B,2026-05-14 22:57:07
-XPML11,Xp Malls Fundo Investimentos Imobiliarios,FII/UNIT,Real Estate,R$ 108.73,R$ 11.04,10.15%,0.0,164.52K,R$ 6.17B,2026-05-14 22:57:07
-MXRF11,Maxi Renda Fundo De Investimento Imobiliaro - FII,FII,Real Estate,R$ 9.92,R$ 1.20,12.05%,1.0,1.52M,R$ 4.57B,2026-05-14 22:57:08
-BBAS3,Banco do Brasil S.A.,AÇÃO,Financial Services,R$ 20.76,R$ 0.83,4.01%,0.64,24.90M,R$ 118.51B,2026-05-14 22:57:09
-PETR4,Petróleo Brasileiro S.A. - Petrobras,AÇÃO,Energy,R$ 45.00,R$ 3.16,7.02%,1.39,55.34M,R$ 614.86B,2026-05-14 22:57:09
-ITUB4,Itaú Unibanco Holding S.A.,AÇÃO,Financial Services,R$ 40.40,R$ 3.41,8.44%,2.12,29.32M,R$ 445.27B,2026-05-14 22:57:10
-ITSA4,Itaúsa S.A.,AÇÃO,Industrials,R$ 13.17,R$ 1.23,9.32%,1.66,31.99M,R$ 147.66B,2026-05-14 22:57:11
-VALE3,Vale S.A.,AÇÃO,Basic Materials,R$ 82.87,R$ 5.48,6.61%,1.92,21.31M,R$ 353.29B,2026-05-14 22:57:12
-BOVA11,iShares Ibovespa Index Fund,FII/UNIT,N/D,R$ 175.16,R$ 0.00,0.0%,0.0,5.03M,R$ 0.00,2026-05-14 22:57:13
-IVVB11,iShares S&P 500 Fundo de Investimento - Investimento No Exterior,FII/UNIT,N/D,R$ 421.40,R$ 0.00,0.0%,0.0,165.30K,R$ 0.00,2026-05-14 22:57:13
+ALZR11,Alianza Trust Renda Imobiliaria Fundo Investimento Imobiliario,FII/UNIT,Real Estate,R$ 10.62,R$ 1.01,9.48%,0.0,214.30K,R$ 1.30B,2026-05-15 00:44:38
+BTAL11,FII Btg Pactual Agro Logistica,FII,Real Estate,R$ 88.89,R$ 11.35,12.77%,0.0,8.14K,R$ 531.81M,2026-05-15 00:44:39
+BTLG11,BTG Pactual Logística Fundo de Investimento Imobiliário,FII/UNIT,Real Estate,R$ 103.11,R$ 9.46,9.17%,1.0,117.75K,R$ 4.47B,2026-05-15 00:44:39
+CPTS11,Capitania Securities II Fundo Investimento Imobiliario FII,FII,Real Estate,R$ 7.63,R$ 0.98,12.79%,0.0,1.24M,R$ 2.51B,2026-05-15 00:44:40
+DEVA11,Devant Recebiveis Imobiliarios Fundo De Investimento Imobiliario,FII/UNIT,Real Estate,R$ 19.95,R$ 4.29,21.5%,0.0,25.36K,R$ 280.20M,2026-05-15 00:44:40
+GGRC11,Ggr Covipe Renda Fundo Investimento Imobiliario,FII/UNIT,Real Estate,R$ 10.17,R$ 1.11,10.87%,0.0,918.38K,R$ 1.55B,2026-05-15 00:44:41
+HCTR11,Fundo De Investimento Imobiliario Hectare Ce,FII/UNIT,Financial Services,R$ 16.84,R$ 3.55,21.06%,0.0,47.15K,R$ 371.90M,2026-05-15 00:44:41
+HFOF11,Hedge Top Fofii 3 Fundo Investimento Imobilirio,FII,Real Estate,R$ 6.55,R$ 0.69,10.5%,0.0,331.69K,R$ 1.48B,2026-05-15 00:44:42
+HGBS11,HEDGE Brasil Shopping Fundo de Investimento Imobiliário,FII/UNIT,Real Estate,R$ 19.93,R$ 1.89,9.48%,0.86,255.36K,R$ 2.57B,2026-05-15 00:44:43
+HGCR11,CSHG Recebiveis Imobiliarios BC Fundo de Investimento Imobiliario - FII,FII,Real Estate,R$ 96.40,R$ 12.05,12.5%,0.0,36.58K,R$ 1.49B,2026-05-15 00:44:43
+HGFF11,CSHG Imobiliario Fof - Fundo De Investimento Imobiliario - Fii,FII,Real Estate,R$ 0.00,R$ 6.69,0.0%,0.0,0.00,R$ 0.00,2026-05-15 00:44:44
+HGLG11,Cshg Logistica - Fundo De Investimento Imobiliario,FII/UNIT,Real Estate,R$ 155.20,R$ 13.20,8.51%,0.98,94.25K,R$ 5.24B,2026-05-15 00:44:45
+HGPO11,Cshg Jhsf Prime Offices Fundo De Investimento Imobiliario,FII/UNIT,Real Estate,R$ 153.58,R$ 0.00,0.0%,0.0,1.07K,R$ 0.00,2026-05-15 00:44:45
+HSML11,Hsi Malls Fundo De Investimento Imobiliario,FII/UNIT,Financial Services,R$ 90.88,R$ 8.22,9.04%,0.0,61.02K,R$ 1.89B,2026-05-15 00:44:46
+IRDM11,Fundo Investimento Imobiliario Iridium Recebiveis Imobiliarios,FII/UNIT,N/D,R$ 58.50,R$ 9.46,16.16%,0.0,0.00,R$ 2.13B,2026-05-15 00:44:46
+JSRE11,JS Real Estate multigestão - FII fund,FII,Real Estate,R$ 60.42,R$ 5.76,9.53%,0.55,40.06K,R$ 1.25B,2026-05-15 00:44:47
+KFOF11,Kinea Fundo Fundos De Investimento Imobiliario FII,FII,Financial Services,R$ 81.74,R$ 9.45,11.56%,0.0,15.30K,R$ 573.37M,2026-05-15 00:44:48
+KNCR11,Kinea Rendimentos Imobiliários Fundo de Investimento Imobiliário - FII,FII,Real Estate,R$ 105.65,R$ 14.63,13.84%,1.05,195.65K,R$ 8.11B,2026-05-15 00:44:48
+KNHY11,Kinea High Yield Cri Fundo Investimento Imobiliario FII,FII,Financial Services,R$ 99.91,R$ 13.33,13.34%,0.0,30.56K,R$ 2.81B,2026-05-15 00:44:49
+KNIP11,Kinea Indices Precos Fundo Investimento Imobiliario - FII,FII,Real Estate,R$ 93.43,R$ 9.48,10.15%,0.0,112.16K,R$ 7.48B,2026-05-15 00:44:50
+KNRI11,Kinea Renda Imobiliária Fundo de Investimento Imobiliário,FII/UNIT,Real Estate,R$ 159.60,R$ 12.43,7.79%,1.0,46.11K,R$ 4.50B,2026-05-15 00:44:50
+LVBI11,Fundo De Investimento Imobiliario - VBI Logistico - Cota Fund,FII/UNIT,Real Estate,R$ 107.86,R$ 9.00,8.34%,0.0,31.58K,R$ 0.00,2026-05-15 00:44:51
+MXRF11,Maxi Renda Fundo De Investimento Imobiliaro - FII,FII,Real Estate,R$ 9.92,R$ 1.20,12.05%,1.0,1.52M,R$ 4.57B,2026-05-15 00:44:52
+PATL11,Patria Logistica Fundo De Investimento Imobiliario,FII/UNIT,Real Estate,R$ 64.15,R$ 5.83,9.09%,0.0,12.95K,R$ 320.21M,2026-05-15 00:44:52
+PVBI11,Fundo De Investimento ImobiliarRio Vbi Prime Properties,FII/UNIT,Real Estate,R$ 75.04,R$ 4.60,6.13%,0.0,72.65K,R$ 2.04B,2026-05-15 00:44:53
+RBRF11,Fundo Investimento Imobiliario Rbr Alpha Fundos De Fundos,FII/UNIT,Real Estate,R$ 6.65,R$ 0.69,10.4%,0.0,0.00,R$ 909.77M,2026-05-15 00:44:53
+RBRR11,Fundo Investimento Imobiliario - FII RBR Rendimento High Grade,FII,Financial Services,R$ 83.79,R$ 9.90,11.82%,0.0,65.94K,R$ 0.00,2026-05-15 00:44:54
+RECR11,Fundo Investimento Imobiliario Fii Ubs (Br) Recebveis Imobiliarios,FII,Real Estate,R$ 81.09,R$ 9.29,11.46%,0.0,40.50K,R$ 3.02B,2026-05-15 00:44:54
+RECT11,Fundo De Investimento Imobiliario - FII UBS Office,FII,Financial Services,R$ 37.04,R$ 4.56,12.32%,0.0,12.95K,R$ 28.76M,2026-05-15 00:44:55
+SNCI11,Suno Recebiveis Imobiliarios Fundo De Investimento Imobiliario,FII/UNIT,Real Estate,R$ 91.29,R$ 12.00,13.14%,0.0,6.21K,R$ 383.42M,2026-05-15 00:44:55
+TGAR11,Fundo Investimento Imobiliario TG Ativo Real,FII/UNIT,Real Estate,R$ 63.79,R$ 9.15,14.34%,0.0,94.09K,R$ 1.50B,2026-05-15 00:44:56
+TRXF11,TRX REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII,FII,Real Estate,R$ 91.78,R$ 10.88,11.85%,0.0,265.94K,R$ 2.98B,2026-05-15 00:44:56
+URPR11,Urca Prime Renda Fundo De Investimento Imobiliario - FII,FII,Real Estate,R$ 27.12,R$ 3.80,14.01%,0.0,21.32K,R$ 318.22M,2026-05-15 00:44:57
+VGHF11,Valora Hedge Fund Fundo De Investimento Imobiliario - Fii,FII,Real Estate,R$ 5.87,R$ 0.80,13.63%,0.0,566.52K,R$ 966.92M,2026-05-15 00:44:58
+VISC11,Vinci Shopping Centers Fundo Investimento Imobiliario - Fii,FII,Real Estate,R$ 110.12,R$ 9.83,8.93%,0.0,77.23K,R$ 3.17B,2026-05-15 00:44:58
+VRTA11,Fator Veritá Fundo de Investimento Imobiliário - FII,FII,Real Estate,R$ 76.22,R$ 10.20,13.38%,0.84,21.97K,R$ 1.19B,2026-05-15 00:44:59
+XPCM11,XP Corporate Macaé Fundo de Investimento Imobiliário - FII,FII,Real Estate,R$ 8.30,R$ 0.00,0.0%,0.11,7.08K,R$ 20.04M,2026-05-15 00:45:00
+XPIN11,Xp Industrial Fundo Investimento Imobiliario,FII/UNIT,Real Estate,R$ 67.80,R$ 9.69,14.29%,0.0,14.74K,R$ 484.80M,2026-05-15 00:45:00
+XPML11,Xp Malls Fundo Investimentos Imobiliarios,FII/UNIT,Real Estate,R$ 108.73,R$ 11.04,10.15%,0.0,164.52K,R$ 6.17B,2026-05-15 00:45:01
+ABEV3,Ambev S.A.,AÇÃO,Consumer Defensive,R$ 15.77,R$ 0.74,4.69%,2.73,27.79M,R$ 245.58B,2026-05-15 00:45:01
+ALOS3,Allos S.A.,AÇÃO,Real Estate,R$ 28.87,R$ 2.27,7.85%,1.1,6.14M,R$ 14.44B,2026-05-15 00:45:02
+ALPA4,Alpargatas S.A.,AÇÃO,Consumer Cyclical,R$ 11.32,R$ 1.79,15.86%,2.31,2.54M,R$ 7.69B,2026-05-15 00:45:03
+AMER3,Americanas S.A.,AÇÃO,Consumer Cyclical,R$ 5.25,R$ 0.00,0.0%,0.22,2.66M,R$ 1.05B,2026-05-15 00:45:03
+ASAI3,Sendas Distribuidora S.A.,AÇÃO,Consumer Defensive,R$ 8.59,R$ 0.10,1.21%,1.96,13.50M,R$ 11.53B,2026-05-15 00:45:04
+B3SA3,"B3 S.A. - Brasil, Bolsa, Balcão",AÇÃO,Financial Services,R$ 16.93,R$ 0.61,3.58%,4.65,36.85M,R$ 84.83B,2026-05-15 00:45:04
+BBAS3,Banco do Brasil S.A.,AÇÃO,Financial Services,R$ 20.76,R$ 0.83,4.01%,0.64,24.90M,R$ 118.51B,2026-05-15 00:45:05
+BBDC3,Banco Bradesco S.A.,AÇÃO,Financial Services,R$ 15.54,R$ 1.37,8.81%,0.91,7.47M,R$ 176.34B,2026-05-15 00:45:06
+BBDC4,Banco Bradesco S.A.,AÇÃO,Financial Services,R$ 17.84,R$ 1.51,8.44%,1.05,35.77M,R$ 188.58B,2026-05-15 00:45:07
+BBSE3,BB Seguridade Participações S.A.,AÇÃO,Financial Services,R$ 34.48,R$ 4.55,13.19%,5.29,5.71M,R$ 66.93B,2026-05-15 00:45:08
+BEEF3,Minerva S.A.,AÇÃO,Consumer Defensive,R$ 4.09,R$ 0.20,4.78%,3.21,18.42M,R$ 4.04B,2026-05-15 00:45:08
+BPAC11,Banco BTG Pactual S.A.,FII/UNIT,Financial Services,R$ 55.39,R$ 1.25,2.25%,3.58,9.25M,R$ 186.64B,2026-05-15 00:45:09
+BRAP4,Bradespar S.A.,AÇÃO,Financial Services,R$ 22.85,R$ 2.36,10.32%,1.17,2.59M,R$ 8.98B,2026-05-15 00:45:10
+BRKM5,Braskem S.A.,AÇÃO,Basic Materials,R$ 12.15,R$ 0.00,0.0%,-0.6,6.36M,R$ 9.68B,2026-05-15 00:45:11
+CMIG4,Companhia Energética de Minas Gerais - CEMIG,AÇÃO,Utilities,R$ 11.28,R$ 1.27,11.25%,1.12,15.56M,R$ 32.27B,2026-05-15 00:45:12
+CMIN3,CSN Mineração S.A.,AÇÃO,Basic Materials,R$ 4.77,R$ 0.39,8.09%,3.88,9.18M,R$ 25.91B,2026-05-15 00:45:12
+COGN3,Cogna Educação S.A.,AÇÃO,Consumer Defensive,R$ 2.61,R$ 0.13,4.94%,0.39,30.58M,R$ 5.21B,2026-05-15 00:45:13
+CPFE3,CPFL Energia S.A.,AÇÃO,Utilities,R$ 45.21,R$ 3.73,8.25%,2.32,2.02M,R$ 52.09B,2026-05-15 00:45:14
+CSAN3,Cosan S.A.,AÇÃO,Energy,R$ 4.65,R$ 0.00,0.0%,3.47,32.08M,R$ 18.33B,2026-05-15 00:45:14
+CSMG3,Companhia de Saneamento de Minas Gerais,AÇÃO,Utilities,R$ 52.25,R$ 2.24,4.29%,2.31,3.63M,R$ 19.81B,2026-05-15 00:45:15
+CSNA3,Companhia Siderúrgica Nacional,AÇÃO,Basic Materials,R$ 6.67,R$ 0.00,0.0%,0.69,13.72M,R$ 8.85B,2026-05-15 00:45:16
+CVCB3,CVC Brasil Operadora e Agência de Viagens S.A.,AÇÃO,Consumer Cyclical,R$ 1.89,R$ 0.00,0.0%,2.06,15.86M,R$ 984.29M,2026-05-15 00:45:17
+CYRE3,Cyrela Brazil Realty S.A. Empreendimentos e Participações,AÇÃO,Consumer Cyclical,R$ 21.88,R$ 2.73,12.48%,0.78,6.81M,R$ 8.02B,2026-05-15 00:45:17
+DXCO3,Dexco S.A.,AÇÃO,Basic Materials,R$ 5.16,R$ 0.00,0.0%,0.68,3.13M,R$ 4.68B,2026-05-15 00:45:18
+EGIE3,Engie Brasil Energia S.A.,AÇÃO,Utilities,R$ 32.50,R$ 1.21,3.71%,2.73,2.23M,R$ 37.12B,2026-05-15 00:45:19
+ENEV3,Eneva S.A.,AÇÃO,Utilities,R$ 25.95,R$ 0.00,0.0%,2.51,14.46M,R$ 49.64B,2026-05-15 00:45:20
+ENGI11,Energisa S.A.,FII/UNIT,Utilities,R$ 49.08,R$ 1.55,3.15%,0.89,3.30M,R$ 15.03B,2026-05-15 00:45:20
+EQTL3,Equatorial S.A.,AÇÃO,Utilities,R$ 38.80,R$ 1.58,4.08%,1.9,7.81M,R$ 48.82B,2026-05-15 00:45:21
+EZTC3,EZTEC Empreendimentos e Participações S.A.,AÇÃO,Real Estate,R$ 13.36,R$ 1.11,8.33%,0.74,2.19M,R$ 3.71B,2026-05-15 00:45:22
+FLRY3,Fleury S.A.,AÇÃO,Healthcare,R$ 15.96,R$ 1.21,7.58%,1.74,2.88M,R$ 8.68B,2026-05-15 00:45:23
+GGBR4,Gerdau S.A.,AÇÃO,Basic Materials,R$ 23.58,R$ 0.68,2.88%,0.88,12.25M,R$ 46.39B,2026-05-15 00:45:23
+GOAU4,Metalurgica Gerdau S.A.,AÇÃO,Basic Materials,R$ 10.27,R$ 0.33,3.24%,0.71,10.04M,R$ 13.61B,2026-05-15 00:45:24
+HAPV3,Hapvida Participações e Investimentos S.A.,AÇÃO,Financial Services,R$ 13.26,R$ 0.00,0.0%,0.13,12.75M,R$ 6.30B,2026-05-15 00:45:25
+HYPE3,Hypera S.A.,AÇÃO,Healthcare,R$ 23.37,R$ 1.13,4.84%,1.18,3.77M,R$ 16.45B,2026-05-15 00:45:25
+IRBR3,IRB-Brasil Resseguros S.A.,AÇÃO,Financial Services,R$ 52.47,R$ 0.94,1.79%,0.81,822.59K,R$ 4.27B,2026-05-15 00:45:26
+ISAE4,ISA Energía Brasil S.A.,AÇÃO,Utilities,R$ 28.89,R$ 1.62,5.62%,0.9,3.07M,R$ 19.04B,2026-05-15 00:45:26
+ITSA4,Itaúsa S.A.,AÇÃO,Industrials,R$ 13.17,R$ 1.23,9.32%,1.66,31.99M,R$ 147.66B,2026-05-15 00:45:27
+ITUB4,Itaú Unibanco Holding S.A.,AÇÃO,Financial Services,R$ 40.40,R$ 3.41,8.44%,2.12,29.32M,R$ 445.27B,2026-05-15 00:45:28
+KLBN11,Klabin S.A.,FII/UNIT,Basic Materials,R$ 16.86,R$ 1.41,8.36%,2.62,5.39M,R$ 119.81B,2026-05-15 00:45:29
+LREN3,Lojas Renner S.A.,AÇÃO,Consumer Cyclical,R$ 13.72,R$ 0.87,6.36%,1.29,16.70M,R$ 13.40B,2026-05-15 00:45:29
+MGLU3,Magazine Luiza S.A.,AÇÃO,Consumer Cyclical,R$ 6.91,R$ 0.08,1.18%,0.47,17.54M,R$ 5.35B,2026-05-15 00:45:30
+MULT3,Multiplan Empreendimentos Imobiliários S.A.,AÇÃO,Real Estate,R$ 29.89,R$ 1.08,3.62%,2.32,3.79M,R$ 14.68B,2026-05-15 00:45:31
+PCAR3,Companhia Brasileira De Distribuicao,AÇÃO,Consumer Cyclical,R$ 2.30,R$ 0.00,0.0%,0.54,11.41M,R$ 1.13B,2026-05-15 00:45:32
+PETR3,Petróleo Brasileiro S.A. - Petrobras,AÇÃO,Energy,R$ 49.38,R$ 3.16,6.4%,1.53,15.22M,R$ 636.45B,2026-05-15 00:45:32
+PETR4,Petróleo Brasileiro S.A. - Petrobras,AÇÃO,Energy,R$ 45.00,R$ 3.16,7.02%,1.39,55.34M,R$ 614.86B,2026-05-15 00:45:33
+PRIO3,Prio S.A.,AÇÃO,Energy,R$ 67.29,R$ 0.00,0.0%,2.04,16.02M,R$ 54.12B,2026-05-15 00:45:34
+RADL3,Raia Drogasil S.A.,AÇÃO,Healthcare,R$ 19.64,R$ 0.40,2.03%,4.69,10.20M,R$ 34.34B,2026-05-15 00:45:35
+RAIL3,Rumo S.A.,AÇÃO,Industrials,R$ 15.27,R$ 0.92,6.02%,2.04,12.80M,R$ 28.34B,2026-05-15 00:45:35
+RAIZ4,Raízen S.A.,AÇÃO,Utilities,R$ 0.44,R$ 0.00,0.0%,-2.86,32.54M,R$ 4.55B,2026-05-15 00:45:36
+RECV3,Petroreconcavo S.A.,AÇÃO,Energy,R$ 12.03,R$ 1.92,15.99%,0.81,4.10M,R$ 3.52B,2026-05-15 00:45:37
+RENT3,Localiza Rent a Car S.A.,AÇÃO,Industrials,R$ 43.94,R$ 2.06,4.69%,1.88,9.66M,R$ 48.14B,2026-05-15 00:45:37
+SANB11,Banco Santander (Brasil) S.A.,FII/UNIT,Financial Services,R$ 27.14,R$ 2.31,8.51%,0.81,3.23M,R$ 145.84B,2026-05-15 00:45:38
+SBSP3,Companhia de Saneamento Básico do Estado de São Paulo - SABESP,AÇÃO,Utilities,R$ 29.52,R$ 0.69,2.35%,0.49,16.92M,R$ 103.52B,2026-05-15 00:45:39
+SLCE3,SLC Agrícola S.A.,AÇÃO,Consumer Defensive,R$ 17.34,R$ 0.81,4.64%,1.71,3.14M,R$ 8.61B,2026-05-15 00:45:40
+SMTO3,São Martinho S.A.,AÇÃO,Basic Materials,R$ 18.40,R$ 0.46,2.48%,0.82,3.03M,R$ 5.94B,2026-05-15 00:45:41
+SUZB3,Suzano S.A.,AÇÃO,Basic Materials,R$ 42.62,R$ 1.12,2.63%,1.2,7.01M,R$ 52.68B,2026-05-15 00:45:41
+TAEE11,Transmissora Aliança de Energia Elétrica S.A.,FII/UNIT,Utilities,R$ 38.61,R$ 3.28,8.48%,1.75,2.17M,R$ 39.90B,2026-05-15 00:45:42
+TIMS3,TIM S.A.,AÇÃO,Communication Services,R$ 22.60,R$ 1.54,6.83%,2.25,5.70M,R$ 53.98B,2026-05-15 00:45:43
+TOTS3,TOTVS S.A.,AÇÃO,Technology,R$ 31.60,R$ 0.65,2.06%,3.64,5.04M,R$ 18.32B,2026-05-15 00:45:43
+UGPA3,Ultrapar Participações S.A.,AÇÃO,Energy,R$ 29.55,R$ 1.30,4.4%,2.02,6.15M,R$ 31.58B,2026-05-15 00:45:44
+USIM5,Usinas Siderúrgicas de Minas Gerais S.A.,AÇÃO,Basic Materials,R$ 9.89,R$ 0.00,0.0%,0.59,13.48M,R$ 12.17B,2026-05-15 00:45:45
+VALE3,Vale S.A.,AÇÃO,Basic Materials,R$ 82.87,R$ 5.48,6.61%,1.92,21.31M,R$ 353.29B,2026-05-15 00:45:45
+VBBR3,Vibra Energia S.A.,AÇÃO,Consumer Cyclical,R$ 33.39,R$ 1.09,3.27%,1.93,9.10M,R$ 39.83B,2026-05-15 00:45:46
+VIVA3,Vivara Participações S.A.,AÇÃO,Consumer Cyclical,R$ 23.00,R$ 0.70,3.03%,1.83,3.57M,R$ 5.41B,2026-05-15 00:45:47
+VIVT3,Telefônica Brasil S.A.,AÇÃO,Communication Services,R$ 35.59,R$ 1.13,3.19%,1.65,4.95M,R$ 113.73B,2026-05-15 00:45:48
+WEGE3,WEG S.A.,AÇÃO,Industrials,R$ 43.72,R$ 2.17,4.96%,10.53,7.92M,R$ 183.44B,2026-05-15 00:45:48
+YDUQ3,Yduqs Participações S.A.,AÇÃO,Consumer Defensive,R$ 9.74,R$ 0.57,5.84%,0.87,4.54M,R$ 2.53B,2026-05-15 00:45:49
+ACWI11,Trend Etf Msci Acwi Fundo De Indice,FII/UNIT,N/D,R$ 16.37,R$ 0.00,0.0%,0.0,106.27K,R$ 0.00,2026-05-15 00:45:50
+B5P211,It Now Ima-B5 P2 Fundo De Indice,FII/UNIT,N/D,R$ 107.33,R$ 0.00,0.0%,0.0,139.05K,R$ 0.00,2026-05-15 00:45:50
+BOVA11,iShares Ibovespa Index Fund,FII/UNIT,N/D,R$ 175.16,R$ 0.00,0.0%,0.0,5.03M,R$ 0.00,2026-05-15 00:45:51
+BOVB11,ETF Bradesco Ibovespa Fundo De Indice,FII/UNIT,N/D,R$ 182.57,R$ 0.00,0.0%,0.0,21.50K,R$ 0.00,2026-05-15 00:45:52
+BOVV11,It Now Ibovespa Fundo de Indice,FII/UNIT,N/D,R$ 183.86,R$ 0.00,0.0%,0.0,644.95K,R$ 0.00,2026-05-15 00:45:52
+DIVO11,It Now IDIV Index Fund,FII/UNIT,N/D,R$ 126.21,R$ 0.00,0.0%,0.0,111.07K,R$ 0.00,2026-05-15 00:45:53
+ECOO11,iShares Índice Carbono Eficiente (ICO2) Brasil - Fundo de Índice,FII/UNIT,N/D,R$ 145.94,R$ 0.00,0.0%,0.0,215.00,R$ 0.00,2026-05-15 00:45:54
+FIND11,It Now IFNC Index Fund,FII/UNIT,N/D,R$ 175.71,R$ 0.00,0.0%,0.0,36.43K,R$ 0.00,2026-05-15 00:45:54
+GOLD11,Trend Etf Lbma Ouro Fundo Investimento Cotas De Fundo De Andice Investimento Exterior,FII/UNIT,N/D,R$ 24.14,R$ 0.00,0.0%,0.0,1.81M,R$ 0.00,2026-05-15 00:45:55
+HASH11,Hashdex Nasdaq Crypto Index Fundo De Indice,FII/UNIT,N/D,R$ 52.62,R$ 0.00,0.0%,0.0,440.97K,R$ 0.00,2026-05-15 00:45:55
+IMAB11,It Now Id ETF Ima-B Fundo De Indice,FII/UNIT,N/D,R$ 113.61,R$ 0.00,0.0%,0.0,134.30K,R$ 0.00,2026-05-15 00:45:56
+IVVB11,iShares S&P 500 Fundo de Investimento - Investimento No Exterior,FII/UNIT,N/D,R$ 421.40,R$ 0.00,0.0%,0.0,165.30K,R$ 0.00,2026-05-15 00:45:56
+LFTS11,Investo Teva Tesouro Selic Etf - Fundo De Investimento De Indice,FII/UNIT,N/D,R$ 152.80,R$ 0.00,0.0%,0.0,296.95K,R$ 0.00,2026-05-15 00:45:57
+MATB11,It Now IMAT Index Fund,FII/UNIT,N/D,R$ 63.39,R$ 0.00,0.0%,0.0,28.60K,R$ 0.00,2026-05-15 00:45:57
+NASD11,Trend Etf Nasdaq 100 Fundo De Investimento De Indice - Investimento No Exterior,FII/UNIT,N/D,R$ 20.55,R$ 0.00,0.0%,0.0,736.37K,R$ 0.00,2026-05-15 00:45:58
+PIBB11,It Now PIBB IBrX-50 Index Fund,FII/UNIT,N/D,R$ 318.42,R$ 0.00,0.0%,0.0,13.81K,R$ 0.00,2026-05-15 00:45:58
+SMAL11,iShares BM&FBovespa Small Cap Fundo de Índice,FII/UNIT,N/D,R$ 112.40,R$ 0.00,0.0%,0.0,2.73M,R$ 0.00,2026-05-15 00:45:59
+SPXI11,It Now S&P500 TRN Fundo de Índice,FII/UNIT,N/D,R$ 51.18,R$ 0.00,0.0%,0.0,128.79K,R$ 0.00,2026-05-15 00:46:00
+TECK11,It Now Nyse Fang+ Fundo De Indice,FII/UNIT,N/D,R$ 114.02,R$ 0.00,0.0%,0.0,123.37K,R$ 0.00,2026-05-15 00:46:00
+XFIX11,TREND ETF IFIX-L CLASSE DE ÍNDICE - RESPONSABILIDADE LIMITADA,FII/UNIT,N/D,R$ 13.66,R$ 0.00,0.0%,0.0,34.73K,R$ 0.00,2026-05-15 00:46:01
