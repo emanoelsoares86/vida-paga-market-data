@@ -1,97 +1,105 @@
 [
   {
     "Ticker":"ALZR11",
-    "Nome":"Alianza Trust Renda Imobiliaria Fundo Investimento Imobiliario",
-    "Categoria":"FII\/UNIT",
-    "Setor":"Real Estate",
-    "Preço Atual":"R$ 10.08",
-    "Dividendos 12M":"R$ 1.01",
-    "DY (%)":"10.01%",
-    "P\/VP":0.0,
-    "Liquidez":"244.93K",
-    "Patrimônio":"R$ 1.24B",
-    "Atualizado Em":"2026-06-03 23:44:02"
+    "Erro":"Too Many Requests. Rate limited. Try after a while.",
+    "Nome":null,
+    "Categoria":null,
+    "Setor":null,
+    "Preço Atual":null,
+    "Dividendos 12M":null,
+    "DY (%)":null,
+    "P\/VP":null,
+    "Liquidez":null,
+    "Patrimônio":null,
+    "Atualizado Em":null
   },
   {
     "Ticker":"BTAL11",
-    "Nome":"FII Btg Pactual Agro Logistica",
-    "Categoria":"FII",
-    "Setor":"Real Estate",
-    "Preço Atual":"R$ 87.31",
-    "Dividendos 12M":"R$ 11.45",
-    "DY (%)":"13.11%",
-    "P\/VP":0.0,
-    "Liquidez":"7.75K",
-    "Patrimônio":"R$ 522.35M",
-    "Atualizado Em":"2026-06-03 23:44:02"
+    "Erro":"Too Many Requests. Rate limited. Try after a while.",
+    "Nome":null,
+    "Categoria":null,
+    "Setor":null,
+    "Preço Atual":null,
+    "Dividendos 12M":null,
+    "DY (%)":null,
+    "P\/VP":null,
+    "Liquidez":null,
+    "Patrimônio":null,
+    "Atualizado Em":null
   },
   {
     "Ticker":"BTLG11",
-    "Nome":"BTG Pactual Logística Fundo de Investimento Imobiliário",
-    "Categoria":"FII\/UNIT",
-    "Setor":"Real Estate",
-    "Preço Atual":"R$ 102.97",
-    "Dividendos 12M":"R$ 9.49",
-    "DY (%)":"9.22%",
-    "P\/VP":1.0,
-    "Liquidez":"115.49K",
-    "Patrimônio":"R$ 4.46B",
-    "Atualizado Em":"2026-06-03 23:44:02"
+    "Erro":"Too Many Requests. Rate limited. Try after a while.",
+    "Nome":null,
+    "Categoria":null,
+    "Setor":null,
+    "Preço Atual":null,
+    "Dividendos 12M":null,
+    "DY (%)":null,
+    "P\/VP":null,
+    "Liquidez":null,
+    "Patrimônio":null,
+    "Atualizado Em":null
   },
   {
     "Ticker":"CPTS11",
-    "Nome":"Capitania Securities II Fundo Investimento Imobiliario FII",
-    "Categoria":"FII",
-    "Setor":"Real Estate",
-    "Preço Atual":"R$ 7.62",
-    "Dividendos 12M":"R$ 1.07",
-    "DY (%)":"13.99%",
-    "P\/VP":0.0,
-    "Liquidez":"1.20M",
-    "Patrimônio":"R$ 2.50B",
-    "Atualizado Em":"2026-06-03 23:44:03"
+    "Erro":"Too Many Requests. Rate limited. Try after a while.",
+    "Nome":null,
+    "Categoria":null,
+    "Setor":null,
+    "Preço Atual":null,
+    "Dividendos 12M":null,
+    "DY (%)":null,
+    "P\/VP":null,
+    "Liquidez":null,
+    "Patrimônio":null,
+    "Atualizado Em":null
   },
   {
     "Ticker":"DEVA11",
-    "Nome":"Devant Recebiveis Imobiliarios Fundo De Investimento Imobiliario",
-    "Categoria":"FII\/UNIT",
-    "Setor":"Real Estate",
-    "Preço Atual":"R$ 18.45",
-    "Dividendos 12M":"R$ 4.29",
-    "DY (%)":"23.25%",
-    "P\/VP":0.0,
-    "Liquidez":"27.49K",
-    "Patrimônio":"R$ 259.13M",
-    "Atualizado Em":"2026-06-03 23:44:03"
+    "Erro":"Too Many Requests. Rate limited. Try after a while.",
+    "Nome":null,
+    "Categoria":null,
+    "Setor":null,
+    "Preço Atual":null,
+    "Dividendos 12M":null,
+    "DY (%)":null,
+    "P\/VP":null,
+    "Liquidez":null,
+    "Patrimônio":null,
+    "Atualizado Em":null
   },
   {
     "Ticker":"GGRC11",
-    "Nome":"Ggr Covipe Renda Fundo Investimento Imobiliario",
-    "Categoria":"FII\/UNIT",
-    "Setor":"Real Estate",
-    "Preço Atual":"R$ 9.95",
-    "Dividendos 12M":"R$ 1.11",
-    "DY (%)":"11.11%",
-    "P\/VP":0.0,
-    "Liquidez":"936.09K",
-    "Patrimônio":"R$ 1.52B",
-    "Atualizado Em":"2026-06-03 23:44:03"
+    "Erro":"Too Many Requests. Rate limited. Try after a while.",
+    "Nome":null,
+    "Categoria":null,
+    "Setor":null,
+    "Preço Atual":null,
+    "Dividendos 12M":null,
+    "DY (%)":null,
+    "P\/VP":null,
+    "Liquidez":null,
+    "Patrimônio":null,
+    "Atualizado Em":null
   },
   {
     "Ticker":"HCTR11",
-    "Nome":"Fundo De Investimento Imobiliario Hectare Ce",
-    "Categoria":"FII\/UNIT",
-    "Setor":"Financial Services",
-    "Preço Atual":"R$ 16.60",
-    "Dividendos 12M":"R$ 3.55",
-    "DY (%)":"21.36%",
-    "P\/VP":0.0,
-    "Liquidez":"46.95K",
-    "Patrimônio":"R$ 366.60M",
-    "Atualizado Em":"2026-06-03 23:44:03"
+    "Erro":"Too Many Requests. Rate limited. Try after a while.",
+    "Nome":null,
+    "Categoria":null,
+    "Setor":null,
+    "Preço Atual":null,
+    "Dividendos 12M":null,
+    "DY (%)":null,
+    "P\/VP":null,
+    "Liquidez":null,
+    "Patrimônio":null,
+    "Atualizado Em":null
   },
   {
     "Ticker":"HFOF11",
+    "Erro":null,
     "Nome":"Hedge Top Fofii 3 Fundo Investimento Imobilirio",
     "Categoria":"FII",
     "Setor":"Real Estate",
@@ -99,12 +107,13 @@
     "Dividendos 12M":"R$ 0.69",
     "DY (%)":"10.65%",
     "P\/VP":0.0,
-    "Liquidez":"385.68K",
+    "Liquidez":"391.95K",
     "Patrimônio":"R$ 1.47B",
-    "Atualizado Em":"2026-06-03 23:44:04"
+    "Atualizado Em":"2026-06-04 23:09:32"
   },
   {
     "Ticker":"HGBS11",
+    "Erro":null,
     "Nome":"HEDGE Brasil Shopping Fundo de Investimento Imobiliário",
     "Categoria":"FII\/UNIT",
     "Setor":"Real Estate",
@@ -112,12 +121,13 @@
     "Dividendos 12M":"R$ 1.90",
     "DY (%)":"9.55%",
     "P\/VP":0.96,
-    "Liquidez":"277.80K",
+    "Liquidez":"280.51K",
     "Patrimônio":"R$ 2.57B",
-    "Atualizado Em":"2026-06-03 23:44:04"
+    "Atualizado Em":"2026-06-04 23:09:32"
   },
   {
     "Ticker":"HGCR11",
+    "Erro":null,
     "Nome":"CSHG Recebiveis Imobiliarios BC Fundo de Investimento Imobiliario - FII",
     "Categoria":"FII",
     "Setor":"Real Estate",
@@ -125,12 +135,13 @@
     "Dividendos 12M":"R$ 11.95",
     "DY (%)":"12.48%",
     "P\/VP":0.0,
-    "Liquidez":"35.04K",
+    "Liquidez":"35.31K",
     "Patrimônio":"R$ 1.48B",
-    "Atualizado Em":"2026-06-03 23:44:05"
+    "Atualizado Em":"2026-06-04 23:09:33"
   },
   {
     "Ticker":"HGFF11",
+    "Erro":null,
     "Nome":"CSHG Imobiliario Fof - Fundo De Investimento Imobiliario - Fii",
     "Categoria":"FII",
     "Setor":"Real Estate",
@@ -140,10 +151,11 @@
     "P\/VP":0.0,
     "Liquidez":"0.00",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-06-03 23:44:05"
+    "Atualizado Em":"2026-06-04 23:09:33"
   },
   {
     "Ticker":"HGLG11",
+    "Erro":null,
     "Nome":"Cshg Logistica - Fundo De Investimento Imobiliario",
     "Categoria":"FII\/UNIT",
     "Setor":"Real Estate",
@@ -151,12 +163,13 @@
     "Dividendos 12M":"R$ 13.20",
     "DY (%)":"8.57%",
     "P\/VP":0.97,
-    "Liquidez":"95.15K",
+    "Liquidez":"95.26K",
     "Patrimônio":"R$ 5.20B",
-    "Atualizado Em":"2026-06-03 23:44:05"
+    "Atualizado Em":"2026-06-04 23:09:33"
   },
   {
     "Ticker":"HGPO11",
+    "Erro":null,
     "Nome":"Cshg Jhsf Prime Offices Fundo De Investimento Imobiliario",
     "Categoria":"FII\/UNIT",
     "Setor":"Real Estate",
@@ -166,10 +179,11 @@
     "P\/VP":0.0,
     "Liquidez":"1.24K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-06-03 23:44:06"
+    "Atualizado Em":"2026-06-04 23:09:34"
   },
   {
     "Ticker":"HSML11",
+    "Erro":null,
     "Nome":"Hsi Malls Fundo De Investimento Imobiliario",
     "Categoria":"FII\/UNIT",
     "Setor":"Financial Services",
@@ -177,12 +191,13 @@
     "Dividendos 12M":"R$ 8.32",
     "DY (%)":"9.22%",
     "P\/VP":0.0,
-    "Liquidez":"66.01K",
+    "Liquidez":"66.99K",
     "Patrimônio":"R$ 1.88B",
-    "Atualizado Em":"2026-06-03 23:44:06"
+    "Atualizado Em":"2026-06-04 23:09:34"
   },
   {
     "Ticker":"IRDM11",
+    "Erro":null,
     "Nome":"Fundo Investimento Imobiliario Iridium Recebiveis Imobiliarios",
     "Categoria":"FII\/UNIT",
     "Setor":"N\/D",
@@ -192,10 +207,11 @@
     "P\/VP":0.0,
     "Liquidez":"0.00",
     "Patrimônio":"R$ 2.13B",
-    "Atualizado Em":"2026-06-03 23:44:06"
+    "Atualizado Em":"2026-06-04 23:09:34"
   },
   {
     "Ticker":"JSRE11",
+    "Erro":null,
     "Nome":"JS Real Estate multigestão - FII fund",
     "Categoria":"FII",
     "Setor":"Real Estate",
@@ -203,12 +219,13 @@
     "Dividendos 12M":"R$ 5.76",
     "DY (%)":"9.45%",
     "P\/VP":0.56,
-    "Liquidez":"47.30K",
+    "Liquidez":"47.70K",
     "Patrimônio":"R$ 1.27B",
-    "Atualizado Em":"2026-06-03 23:44:06"
+    "Atualizado Em":"2026-06-04 23:09:35"
   },
   {
     "Ticker":"KFOF11",
+    "Erro":null,
     "Nome":"Kinea Fundo Fundos De Investimento Imobiliario FII",
     "Categoria":"FII",
     "Setor":"Financial Services",
@@ -216,12 +233,13 @@
     "Dividendos 12M":"R$ 9.50",
     "DY (%)":"11.9%",
     "P\/VP":0.0,
-    "Liquidez":"15.78K",
+    "Liquidez":"15.85K",
     "Patrimônio":"R$ 559.83M",
-    "Atualizado Em":"2026-06-03 23:44:07"
+    "Atualizado Em":"2026-06-04 23:09:35"
   },
   {
     "Ticker":"KNCR11",
+    "Erro":null,
     "Nome":"Kinea Rendimentos Imobiliários Fundo de Investimento Imobiliário - FII",
     "Categoria":"FII",
     "Setor":"Real Estate",
@@ -229,12 +247,13 @@
     "Dividendos 12M":"R$ 14.53",
     "DY (%)":"13.63%",
     "P\/VP":1.06,
-    "Liquidez":"204.21K",
+    "Liquidez":"204.81K",
     "Patrimônio":"R$ 8.18B",
-    "Atualizado Em":"2026-06-03 23:44:07"
+    "Atualizado Em":"2026-06-04 23:09:35"
   },
   {
     "Ticker":"KNHY11",
+    "Erro":null,
     "Nome":"Kinea High Yield Cri Fundo Investimento Imobiliario FII",
     "Categoria":"FII",
     "Setor":"Financial Services",
@@ -244,10 +263,11 @@
     "P\/VP":0.0,
     "Liquidez":"29.89K",
     "Patrimônio":"R$ 2.81B",
-    "Atualizado Em":"2026-06-03 23:44:07"
+    "Atualizado Em":"2026-06-04 23:09:36"
   },
   {
     "Ticker":"KNIP11",
+    "Erro":null,
     "Nome":"Kinea Indices Precos Fundo Investimento Imobiliario - FII",
     "Categoria":"FII",
     "Setor":"Real Estate",
@@ -255,12 +275,13 @@
     "Dividendos 12M":"R$ 9.69",
     "DY (%)":"10.41%",
     "P\/VP":0.0,
-    "Liquidez":"112.44K",
+    "Liquidez":"112.61K",
     "Patrimônio":"R$ 7.46B",
-    "Atualizado Em":"2026-06-03 23:44:08"
+    "Atualizado Em":"2026-06-04 23:09:36"
   },
   {
     "Ticker":"KNRI11",
+    "Erro":null,
     "Nome":"Kinea Renda Imobiliária Fundo de Investimento Imobiliário",
     "Categoria":"FII\/UNIT",
     "Setor":"Real Estate",
@@ -268,12 +289,13 @@
     "Dividendos 12M":"R$ 12.53",
     "DY (%)":"8.08%",
     "P\/VP":0.97,
-    "Liquidez":"49.46K",
+    "Liquidez":"48.91K",
     "Patrimônio":"R$ 4.37B",
-    "Atualizado Em":"2026-06-03 23:44:08"
+    "Atualizado Em":"2026-06-04 23:09:36"
   },
   {
     "Ticker":"LVBI11",
+    "Erro":null,
     "Nome":"Fundo De Investimento Imobiliario - VBI Logistico - Cota Fund",
     "Categoria":"FII\/UNIT",
     "Setor":"Real Estate",
@@ -281,12 +303,13 @@
     "Dividendos 12M":"R$ 9.00",
     "DY (%)":"8.54%",
     "P\/VP":0.0,
-    "Liquidez":"33.68K",
+    "Liquidez":"33.54K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-06-03 23:44:08"
+    "Atualizado Em":"2026-06-04 23:09:37"
   },
   {
     "Ticker":"MXRF11",
+    "Erro":null,
     "Nome":"Maxi Renda Fundo De Investimento Imobiliaro - FII",
     "Categoria":"FII",
     "Setor":"Real Estate",
@@ -296,10 +319,11 @@
     "P\/VP":0.99,
     "Liquidez":"1.44M",
     "Patrimônio":"R$ 4.51B",
-    "Atualizado Em":"2026-06-03 23:44:09"
+    "Atualizado Em":"2026-06-04 23:09:37"
   },
   {
     "Ticker":"PATL11",
+    "Erro":null,
     "Nome":"Patria Logistica Fundo De Investimento Imobiliario",
     "Categoria":"FII\/UNIT",
     "Setor":"Real Estate",
@@ -307,12 +331,13 @@
     "Dividendos 12M":"R$ 6.53",
     "DY (%)":"10.18%",
     "P\/VP":0.0,
-    "Liquidez":"9.81K",
+    "Liquidez":"9.71K",
     "Patrimônio":"R$ 320.21M",
-    "Atualizado Em":"2026-06-03 23:44:09"
+    "Atualizado Em":"2026-06-04 23:09:37"
   },
   {
     "Ticker":"PVBI11",
+    "Erro":null,
     "Nome":"Fundo De Investimento ImobiliarRio Vbi Prime Properties",
     "Categoria":"FII\/UNIT",
     "Setor":"Real Estate",
@@ -320,12 +345,13 @@
     "Dividendos 12M":"R$ 5.35",
     "DY (%)":"7.53%",
     "P\/VP":0.0,
-    "Liquidez":"62.82K",
+    "Liquidez":"63.27K",
     "Patrimônio":"R$ 1.93B",
-    "Atualizado Em":"2026-06-03 23:44:09"
+    "Atualizado Em":"2026-06-04 23:09:37"
   },
   {
     "Ticker":"RBRF11",
+    "Erro":null,
     "Nome":"Fundo Investimento Imobiliario Rbr Alpha Fundos De Fundos",
     "Categoria":"FII\/UNIT",
     "Setor":"Real Estate",
@@ -335,10 +361,11 @@
     "P\/VP":0.0,
     "Liquidez":"0.00",
     "Patrimônio":"R$ 909.77M",
-    "Atualizado Em":"2026-06-03 23:44:10"
+    "Atualizado Em":"2026-06-04 23:09:38"
   },
   {
     "Ticker":"RBRR11",
+    "Erro":null,
     "Nome":"Fundo Investimento Imobiliario - FII RBR Rendimento High Grade",
     "Categoria":"FII",
     "Setor":"Financial Services",
@@ -346,12 +373,13 @@
     "Dividendos 12M":"R$ 9.90",
     "DY (%)":"11.83%",
     "P\/VP":0.0,
-    "Liquidez":"50.27K",
+    "Liquidez":"51.00K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-06-03 23:44:10"
+    "Atualizado Em":"2026-06-04 23:09:38"
   },
   {
     "Ticker":"RECR11",
+    "Erro":null,
     "Nome":"Fundo Investimento Imobiliario Fii Ubs (Br) Recebveis Imobiliarios",
     "Categoria":"FII",
     "Setor":"Real Estate",
@@ -359,12 +387,13 @@
     "Dividendos 12M":"R$ 9.29",
     "DY (%)":"11.33%",
     "P\/VP":0.0,
-    "Liquidez":"39.85K",
+    "Liquidez":"39.71K",
     "Patrimônio":"R$ 3.06B",
-    "Atualizado Em":"2026-06-03 23:44:10"
+    "Atualizado Em":"2026-06-04 23:09:38"
   },
   {
     "Ticker":"RECT11",
+    "Erro":null,
     "Nome":"Fundo De Investimento Imobiliario - FII UBS Office",
     "Categoria":"FII",
     "Setor":"Financial Services",
@@ -372,12 +401,13 @@
     "Dividendos 12M":"R$ 4.56",
     "DY (%)":"12.77%",
     "P\/VP":0.0,
-    "Liquidez":"12.53K",
+    "Liquidez":"12.64K",
     "Patrimônio":"R$ 27.76M",
-    "Atualizado Em":"2026-06-03 23:44:11"
+    "Atualizado Em":"2026-06-04 23:09:39"
   },
   {
     "Ticker":"SNCI11",
+    "Erro":null,
     "Nome":"Suno Recebiveis Imobiliarios Fundo De Investimento Imobiliario",
     "Categoria":"FII\/UNIT",
     "Setor":"Real Estate",
@@ -385,12 +415,13 @@
     "Dividendos 12M":"R$ 12.00",
     "DY (%)":"13.75%",
     "P\/VP":0.0,
-    "Liquidez":"6.20K",
+    "Liquidez":"6.09K",
     "Patrimônio":"R$ 366.66M",
-    "Atualizado Em":"2026-06-03 23:44:11"
+    "Atualizado Em":"2026-06-04 23:09:39"
   },
   {
     "Ticker":"TGAR11",
+    "Erro":null,
     "Nome":"Fundo Investimento Imobiliario TG Ativo Real",
     "Categoria":"FII\/UNIT",
     "Setor":"Real Estate",
@@ -398,12 +429,13 @@
     "Dividendos 12M":"R$ 10.59",
     "DY (%)":"18.79%",
     "P\/VP":0.0,
-    "Liquidez":"117.16K",
+    "Liquidez":"118.34K",
     "Patrimônio":"R$ 1.33B",
-    "Atualizado Em":"2026-06-03 23:44:11"
+    "Atualizado Em":"2026-06-04 23:09:39"
   },
   {
     "Ticker":"TRXF11",
+    "Erro":null,
     "Nome":"TRX REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
     "Categoria":"FII",
     "Setor":"Real Estate",
@@ -411,12 +443,13 @@
     "Dividendos 12M":"R$ 10.88",
     "DY (%)":"11.98%",
     "P\/VP":0.0,
-    "Liquidez":"242.01K",
+    "Liquidez":"239.59K",
     "Patrimônio":"R$ 2.95B",
-    "Atualizado Em":"2026-06-03 23:44:11"
+    "Atualizado Em":"2026-06-04 23:09:40"
   },
   {
     "Ticker":"URPR11",
+    "Erro":null,
     "Nome":"Urca Prime Renda Fundo De Investimento Imobiliario - FII",
     "Categoria":"FII",
     "Setor":"Real Estate",
@@ -424,12 +457,13 @@
     "Dividendos 12M":"R$ 4.34",
     "DY (%)":"19.45%",
     "P\/VP":0.0,
-    "Liquidez":"23.29K",
+    "Liquidez":"23.48K",
     "Patrimônio":"R$ 261.78M",
-    "Atualizado Em":"2026-06-03 23:44:12"
+    "Atualizado Em":"2026-06-04 23:09:40"
   },
   {
     "Ticker":"VGHF11",
+    "Erro":null,
     "Nome":"Valora Hedge Fund Fundo De Investimento Imobiliario - Fii",
     "Categoria":"FII",
     "Setor":"Real Estate",
@@ -437,12 +471,13 @@
     "Dividendos 12M":"R$ 0.92",
     "DY (%)":"15.36%",
     "P\/VP":0.0,
-    "Liquidez":"588.96K",
+    "Liquidez":"588.13K",
     "Patrimônio":"R$ 986.68M",
-    "Atualizado Em":"2026-06-03 23:44:12"
+    "Atualizado Em":"2026-06-04 23:09:40"
   },
   {
     "Ticker":"VISC11",
+    "Erro":null,
     "Nome":"Vinci Shopping Centers Fundo Investimento Imobiliario - Fii",
     "Categoria":"FII",
     "Setor":"Real Estate",
@@ -450,12 +485,13 @@
     "Dividendos 12M":"R$ 9.87",
     "DY (%)":"9.31%",
     "P\/VP":0.0,
-    "Liquidez":"81.33K",
+    "Liquidez":"82.25K",
     "Patrimônio":"R$ 3.06B",
-    "Atualizado Em":"2026-06-03 23:44:12"
+    "Atualizado Em":"2026-06-04 23:09:41"
   },
   {
     "Ticker":"VRTA11",
+    "Erro":null,
     "Nome":"Fator Veritá Fundo de Investimento Imobiliário - FII",
     "Categoria":"FII",
     "Setor":"Real Estate",
@@ -463,12 +499,13 @@
     "Dividendos 12M":"R$ 10.20",
     "DY (%)":"13.51%",
     "P\/VP":0.83,
-    "Liquidez":"22.13K",
+    "Liquidez":"22.17K",
     "Patrimônio":"R$ 1.18B",
-    "Atualizado Em":"2026-06-03 23:44:13"
+    "Atualizado Em":"2026-06-04 23:09:41"
   },
   {
     "Ticker":"XPCM11",
+    "Erro":null,
     "Nome":"XP Corporate Macaé Fundo de Investimento Imobiliário - FII",
     "Categoria":"FII",
     "Setor":"Real Estate",
@@ -476,12 +513,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.11,
-    "Liquidez":"3.61K",
+    "Liquidez":"3.52K",
     "Patrimônio":"R$ 20.48M",
-    "Atualizado Em":"2026-06-03 23:44:13"
+    "Atualizado Em":"2026-06-04 23:09:41"
   },
   {
     "Ticker":"XPIN11",
+    "Erro":null,
     "Nome":"Xp Industrial Fundo Investimento Imobiliario",
     "Categoria":"FII\/UNIT",
     "Setor":"Real Estate",
@@ -489,12 +527,13 @@
     "Dividendos 12M":"R$ 8.95",
     "DY (%)":"14.16%",
     "P\/VP":0.0,
-    "Liquidez":"13.72K",
+    "Liquidez":"13.63K",
     "Patrimônio":"R$ 451.91M",
-    "Atualizado Em":"2026-06-03 23:44:13"
+    "Atualizado Em":"2026-06-04 23:09:42"
   },
   {
     "Ticker":"XPML11",
+    "Erro":null,
     "Nome":"Xp Malls Fundo Investimentos Imobiliarios",
     "Categoria":"FII\/UNIT",
     "Setor":"Real Estate",
@@ -502,12 +541,13 @@
     "Dividendos 12M":"R$ 11.04",
     "DY (%)":"10.41%",
     "P\/VP":0.0,
-    "Liquidez":"158.96K",
+    "Liquidez":"161.08K",
     "Patrimônio":"R$ 6.01B",
-    "Atualizado Em":"2026-06-03 23:44:13"
+    "Atualizado Em":"2026-06-04 23:09:42"
   },
   {
     "Ticker":"ABEV3",
+    "Erro":null,
     "Nome":"Ambev S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Consumer Defensive",
@@ -515,12 +555,13 @@
     "Dividendos 12M":"R$ 0.61",
     "DY (%)":"3.81%",
     "P\/VP":2.78,
-    "Liquidez":"28.12M",
+    "Liquidez":"28.10M",
     "Patrimônio":"R$ 250.25B",
-    "Atualizado Em":"2026-06-03 23:44:14"
+    "Atualizado Em":"2026-06-04 23:09:42"
   },
   {
     "Ticker":"ALOS3",
+    "Erro":null,
     "Nome":"Allos S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Real Estate",
@@ -528,12 +569,13 @@
     "Dividendos 12M":"R$ 2.56",
     "DY (%)":"9.38%",
     "P\/VP":1.05,
-    "Liquidez":"6.04M",
+    "Liquidez":"6.10M",
     "Patrimônio":"R$ 13.64B",
-    "Atualizado Em":"2026-06-03 23:44:14"
+    "Atualizado Em":"2026-06-04 23:09:43"
   },
   {
     "Ticker":"ALPA4",
+    "Erro":null,
     "Nome":"Alpargatas S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Consumer Cyclical",
@@ -541,12 +583,13 @@
     "Dividendos 12M":"R$ 1.79",
     "DY (%)":"15.19%",
     "P\/VP":2.41,
-    "Liquidez":"2.50M",
+    "Liquidez":"2.49M",
     "Patrimônio":"R$ 8.03B",
-    "Atualizado Em":"2026-06-03 23:44:15"
+    "Atualizado Em":"2026-06-04 23:09:43"
   },
   {
     "Ticker":"AMER3",
+    "Erro":null,
     "Nome":"Americanas S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Consumer Cyclical",
@@ -554,12 +597,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.21,
-    "Liquidez":"2.75M",
+    "Liquidez":"2.77M",
     "Patrimônio":"R$ 977.19M",
-    "Atualizado Em":"2026-06-03 23:44:15"
+    "Atualizado Em":"2026-06-04 23:09:43"
   },
   {
     "Ticker":"ASAI3",
+    "Erro":null,
     "Nome":"Sendas Distribuidora S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Consumer Defensive",
@@ -567,12 +611,13 @@
     "Dividendos 12M":"R$ 0.10",
     "DY (%)":"1.19%",
     "P\/VP":2.0,
-    "Liquidez":"13.61M",
+    "Liquidez":"13.56M",
     "Patrimônio":"R$ 11.79B",
-    "Atualizado Em":"2026-06-03 23:44:15"
+    "Atualizado Em":"2026-06-04 23:09:44"
   },
   {
     "Ticker":"B3SA3",
+    "Erro":null,
     "Nome":"B3 S.A. - Brasil, Bolsa, Balcão",
     "Categoria":"AÇÃO",
     "Setor":"Financial Services",
@@ -580,12 +625,13 @@
     "Dividendos 12M":"R$ 0.61",
     "DY (%)":"3.9%",
     "P\/VP":4.26,
-    "Liquidez":"36.50M",
+    "Liquidez":"36.58M",
     "Patrimônio":"R$ 77.77B",
-    "Atualizado Em":"2026-06-03 23:44:16"
+    "Atualizado Em":"2026-06-04 23:09:44"
   },
   {
     "Ticker":"BBAS3",
+    "Erro":null,
     "Nome":"Banco do Brasil S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Financial Services",
@@ -593,12 +639,13 @@
     "Dividendos 12M":"R$ 0.55",
     "DY (%)":"2.81%",
     "P\/VP":0.6,
-    "Liquidez":"24.39M",
+    "Liquidez":"24.59M",
     "Patrimônio":"R$ 111.49B",
-    "Atualizado Em":"2026-06-03 23:44:16"
+    "Atualizado Em":"2026-06-04 23:09:45"
   },
   {
     "Ticker":"BBDC3",
+    "Erro":null,
     "Nome":"Banco Bradesco S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Financial Services",
@@ -608,10 +655,11 @@
     "P\/VP":0.89,
     "Liquidez":"7.19M",
     "Patrimônio":"R$ 171.46B",
-    "Atualizado Em":"2026-06-03 23:44:16"
+    "Atualizado Em":"2026-06-04 23:09:45"
   },
   {
     "Ticker":"BBDC4",
+    "Erro":null,
     "Nome":"Banco Bradesco S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Financial Services",
@@ -619,12 +667,13 @@
     "Dividendos 12M":"R$ 1.51",
     "DY (%)":"8.67%",
     "P\/VP":1.02,
-    "Liquidez":"33.36M",
+    "Liquidez":"32.82M",
     "Patrimônio":"R$ 183.61B",
-    "Atualizado Em":"2026-06-03 23:44:17"
+    "Atualizado Em":"2026-06-04 23:09:46"
   },
   {
     "Ticker":"BBSE3",
+    "Erro":null,
     "Nome":"BB Seguridade Participações S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Financial Services",
@@ -634,10 +683,11 @@
     "P\/VP":5.38,
     "Liquidez":"5.03M",
     "Patrimônio":"R$ 68.02B",
-    "Atualizado Em":"2026-06-03 23:44:17"
+    "Atualizado Em":"2026-06-04 23:09:46"
   },
   {
     "Ticker":"BEEF3",
+    "Erro":null,
     "Nome":"Minerva S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Consumer Defensive",
@@ -645,12 +695,13 @@
     "Dividendos 12M":"R$ 0.20",
     "DY (%)":"5.47%",
     "P\/VP":2.81,
-    "Liquidez":"19.01M",
+    "Liquidez":"19.27M",
     "Patrimônio":"R$ 3.54B",
-    "Atualizado Em":"2026-06-03 23:44:18"
+    "Atualizado Em":"2026-06-04 23:09:46"
   },
   {
     "Ticker":"BPAC11",
+    "Erro":null,
     "Nome":"Banco BTG Pactual S.A.",
     "Categoria":"FII\/UNIT",
     "Setor":"Financial Services",
@@ -658,12 +709,13 @@
     "Dividendos 12M":"R$ 1.25",
     "DY (%)":"2.46%",
     "P\/VP":3.28,
-    "Liquidez":"9.50M",
+    "Liquidez":"9.54M",
     "Patrimônio":"R$ 170.87B",
-    "Atualizado Em":"2026-06-03 23:44:18"
+    "Atualizado Em":"2026-06-04 23:09:47"
   },
   {
     "Ticker":"BRAP4",
+    "Erro":null,
     "Nome":"Bradespar S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Financial Services",
@@ -673,10 +725,11 @@
     "P\/VP":1.17,
     "Liquidez":"2.29M",
     "Patrimônio":"R$ 8.95B",
-    "Atualizado Em":"2026-06-03 23:44:18"
+    "Atualizado Em":"2026-06-04 23:09:47"
   },
   {
     "Ticker":"BRKM5",
+    "Erro":null,
     "Nome":"Braskem S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Basic Materials",
@@ -684,12 +737,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":-0.48,
-    "Liquidez":"6.50M",
+    "Liquidez":"6.53M",
     "Patrimônio":"R$ 7.52B",
-    "Atualizado Em":"2026-06-03 23:44:19"
+    "Atualizado Em":"2026-06-04 23:09:48"
   },
   {
     "Ticker":"CMIG4",
+    "Erro":null,
     "Nome":"Companhia Energética de Minas Gerais - CEMIG",
     "Categoria":"AÇÃO",
     "Setor":"Utilities",
@@ -697,12 +751,13 @@
     "Dividendos 12M":"R$ 1.27",
     "DY (%)":"11.69%",
     "P\/VP":1.08,
-    "Liquidez":"15.85M",
+    "Liquidez":"15.90M",
     "Patrimônio":"R$ 31.07B",
-    "Atualizado Em":"2026-06-03 23:44:19"
+    "Atualizado Em":"2026-06-04 23:09:48"
   },
   {
     "Ticker":"CMIN3",
+    "Erro":null,
     "Nome":"CSN Mineração S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Basic Materials",
@@ -710,12 +765,13 @@
     "Dividendos 12M":"R$ 0.39",
     "DY (%)":"8.57%",
     "P\/VP":3.66,
-    "Liquidez":"9.20M",
+    "Liquidez":"9.27M",
     "Patrimônio":"R$ 24.44B",
-    "Atualizado Em":"2026-06-03 23:44:19"
+    "Atualizado Em":"2026-06-04 23:09:49"
   },
   {
     "Ticker":"COGN3",
+    "Erro":null,
     "Nome":"Cogna Educação S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Consumer Defensive",
@@ -723,12 +779,13 @@
     "Dividendos 12M":"R$ 0.13",
     "DY (%)":"5.4%",
     "P\/VP":0.35,
-    "Liquidez":"28.63M",
+    "Liquidez":"28.74M",
     "Patrimônio":"R$ 4.77B",
-    "Atualizado Em":"2026-06-03 23:44:20"
+    "Atualizado Em":"2026-06-04 23:09:49"
   },
   {
     "Ticker":"CPFE3",
+    "Erro":null,
     "Nome":"CPFL Energia S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Utilities",
@@ -736,12 +793,13 @@
     "Dividendos 12M":"R$ 3.73",
     "DY (%)":"8.62%",
     "P\/VP":2.05,
-    "Liquidez":"2.12M",
+    "Liquidez":"2.13M",
     "Patrimônio":"R$ 49.89B",
-    "Atualizado Em":"2026-06-03 23:44:20"
+    "Atualizado Em":"2026-06-04 23:09:49"
   },
   {
     "Ticker":"CSAN3",
+    "Erro":null,
     "Nome":"Cosan S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Energy",
@@ -749,12 +807,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":4.01,
-    "Liquidez":"34.57M",
+    "Liquidez":"35.21M",
     "Patrimônio":"R$ 14.11B",
-    "Atualizado Em":"2026-06-03 23:44:21"
+    "Atualizado Em":"2026-06-04 23:09:50"
   },
   {
     "Ticker":"CSMG3",
+    "Erro":null,
     "Nome":"Companhia de Saneamento de Minas Gerais",
     "Categoria":"AÇÃO",
     "Setor":"Utilities",
@@ -762,12 +821,13 @@
     "Dividendos 12M":"R$ 2.24",
     "DY (%)":"3.74%",
     "P\/VP":2.59,
-    "Liquidez":"4.14M",
+    "Liquidez":"4.26M",
     "Patrimônio":"R$ 22.75B",
-    "Atualizado Em":"2026-06-03 23:44:21"
+    "Atualizado Em":"2026-06-04 23:09:50"
   },
   {
     "Ticker":"CSNA3",
+    "Erro":null,
     "Nome":"Companhia Siderúrgica Nacional",
     "Categoria":"AÇÃO",
     "Setor":"Basic Materials",
@@ -775,12 +835,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.69,
-    "Liquidez":"14.13M",
+    "Liquidez":"14.39M",
     "Patrimônio":"R$ 8.86B",
-    "Atualizado Em":"2026-06-03 23:44:21"
+    "Atualizado Em":"2026-06-04 23:09:51"
   },
   {
     "Ticker":"CVCB3",
+    "Erro":null,
     "Nome":"CVC Brasil Operadora e Agência de Viagens S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Consumer Cyclical",
@@ -788,12 +849,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":1.61,
-    "Liquidez":"15.39M",
+    "Liquidez":"15.24M",
     "Patrimônio":"R$ 770.78M",
-    "Atualizado Em":"2026-06-03 23:44:22"
+    "Atualizado Em":"2026-06-04 23:09:51"
   },
   {
     "Ticker":"CYRE3",
+    "Erro":null,
     "Nome":"Cyrela Brazil Realty S.A. Empreendimentos e Participações",
     "Categoria":"AÇÃO",
     "Setor":"Consumer Cyclical",
@@ -801,12 +863,13 @@
     "Dividendos 12M":"R$ 2.73",
     "DY (%)":"13.09%",
     "P\/VP":0.86,
-    "Liquidez":"7.19M",
+    "Liquidez":"7.27M",
     "Patrimônio":"R$ 7.64B",
-    "Atualizado Em":"2026-06-03 23:44:22"
+    "Atualizado Em":"2026-06-04 23:09:51"
   },
   {
     "Ticker":"DXCO3",
+    "Erro":null,
     "Nome":"Dexco S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Basic Materials",
@@ -814,12 +877,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.61,
-    "Liquidez":"2.90M",
+    "Liquidez":"2.91M",
     "Patrimônio":"R$ 4.19B",
-    "Atualizado Em":"2026-06-03 23:44:22"
+    "Atualizado Em":"2026-06-04 23:09:52"
   },
   {
     "Ticker":"EGIE3",
+    "Erro":null,
     "Nome":"Engie Brasil Energia S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Utilities",
@@ -827,12 +891,13 @@
     "Dividendos 12M":"R$ 1.21",
     "DY (%)":"3.54%",
     "P\/VP":2.86,
-    "Liquidez":"2.26M",
+    "Liquidez":"2.28M",
     "Patrimônio":"R$ 38.94B",
-    "Atualizado Em":"2026-06-03 23:44:23"
+    "Atualizado Em":"2026-06-04 23:09:52"
   },
   {
     "Ticker":"ENEV3",
+    "Erro":null,
     "Nome":"Eneva S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Utilities",
@@ -840,12 +905,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":2.34,
-    "Liquidez":"14.03M",
+    "Liquidez":"14.16M",
     "Patrimônio":"R$ 46.35B",
-    "Atualizado Em":"2026-06-03 23:44:23"
+    "Atualizado Em":"2026-06-04 23:09:53"
   },
   {
     "Ticker":"ENGI11",
+    "Erro":null,
     "Nome":"Energisa S.A.",
     "Categoria":"FII\/UNIT",
     "Setor":"Utilities",
@@ -853,12 +919,13 @@
     "Dividendos 12M":"R$ 1.55",
     "DY (%)":"3.28%",
     "P\/VP":0.92,
-    "Liquidez":"3.10M",
+    "Liquidez":"3.11M",
     "Patrimônio":"R$ 14.44B",
-    "Atualizado Em":"2026-06-03 23:44:23"
+    "Atualizado Em":"2026-06-04 23:09:53"
   },
   {
     "Ticker":"EQTL3",
+    "Erro":null,
     "Nome":"Equatorial S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Utilities",
@@ -866,25 +933,27 @@
     "Dividendos 12M":"R$ 1.58",
     "DY (%)":"3.98%",
     "P\/VP":1.94,
-    "Liquidez":"8.20M",
+    "Liquidez":"8.25M",
     "Patrimônio":"R$ 50.09B",
-    "Atualizado Em":"2026-06-03 23:44:24"
+    "Atualizado Em":"2026-06-04 23:09:53"
   },
   {
     "Ticker":"EZTC3",
+    "Erro":null,
     "Nome":"EZTEC Empreendimentos e Participações S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Real Estate",
     "Preço Atual":"R$ 12.25",
     "Dividendos 12M":"R$ 1.14",
     "DY (%)":"9.27%",
-    "P\/VP":0.68,
-    "Liquidez":"2.07M",
+    "P\/VP":0.66,
+    "Liquidez":"2.08M",
     "Patrimônio":"R$ 3.40B",
-    "Atualizado Em":"2026-06-03 23:44:24"
+    "Atualizado Em":"2026-06-04 23:09:54"
   },
   {
     "Ticker":"FLRY3",
+    "Erro":null,
     "Nome":"Fleury S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Healthcare",
@@ -892,12 +961,13 @@
     "Dividendos 12M":"R$ 1.21",
     "DY (%)":"8.23%",
     "P\/VP":1.54,
-    "Liquidez":"2.67M",
+    "Liquidez":"2.66M",
     "Patrimônio":"R$ 7.99B",
-    "Atualizado Em":"2026-06-03 23:44:25"
+    "Atualizado Em":"2026-06-04 23:09:54"
   },
   {
     "Ticker":"GGBR4",
+    "Erro":null,
     "Nome":"Gerdau S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Basic Materials",
@@ -905,12 +975,13 @@
     "Dividendos 12M":"R$ 0.68",
     "DY (%)":"2.82%",
     "P\/VP":0.9,
-    "Liquidez":"11.54M",
+    "Liquidez":"11.62M",
     "Patrimônio":"R$ 47.47B",
-    "Atualizado Em":"2026-06-03 23:44:25"
+    "Atualizado Em":"2026-06-04 23:09:55"
   },
   {
     "Ticker":"GOAU4",
+    "Erro":null,
     "Nome":"Metalurgica Gerdau S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Basic Materials",
@@ -918,12 +989,13 @@
     "Dividendos 12M":"R$ 0.33",
     "DY (%)":"3.22%",
     "P\/VP":0.72,
-    "Liquidez":"9.85M",
+    "Liquidez":"9.96M",
     "Patrimônio":"R$ 13.69B",
-    "Atualizado Em":"2026-06-03 23:44:25"
+    "Atualizado Em":"2026-06-04 23:09:55"
   },
   {
     "Ticker":"HAPV3",
+    "Erro":null,
     "Nome":"Hapvida Participações e Investimentos S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Financial Services",
@@ -931,12 +1003,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.11,
-    "Liquidez":"11.83M",
+    "Liquidez":"11.86M",
     "Patrimônio":"R$ 5.33B",
-    "Atualizado Em":"2026-06-03 23:44:26"
+    "Atualizado Em":"2026-06-04 23:09:55"
   },
   {
     "Ticker":"HYPE3",
+    "Erro":null,
     "Nome":"Hypera S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Healthcare",
@@ -944,12 +1017,13 @@
     "Dividendos 12M":"R$ 1.13",
     "DY (%)":"5.31%",
     "P\/VP":1.08,
-    "Liquidez":"3.57M",
+    "Liquidez":"3.63M",
     "Patrimônio":"R$ 15.00B",
-    "Atualizado Em":"2026-06-03 23:44:26"
+    "Atualizado Em":"2026-06-04 23:09:56"
   },
   {
     "Ticker":"IRBR3",
+    "Erro":null,
     "Nome":"IRB-Brasil Resseguros S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Financial Services",
@@ -957,12 +1031,13 @@
     "Dividendos 12M":"R$ 1.26",
     "DY (%)":"2.47%",
     "P\/VP":0.79,
-    "Liquidez":"653.04K",
+    "Liquidez":"651.90K",
     "Patrimônio":"R$ 4.13B",
-    "Atualizado Em":"2026-06-03 23:44:26"
+    "Atualizado Em":"2026-06-04 23:09:56"
   },
   {
     "Ticker":"ISAE4",
+    "Erro":null,
     "Nome":"ISA Energía Brasil S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Utilities",
@@ -970,12 +1045,13 @@
     "Dividendos 12M":"R$ 1.85",
     "DY (%)":"6.81%",
     "P\/VP":0.85,
-    "Liquidez":"2.98M",
+    "Liquidez":"3.00M",
     "Patrimônio":"R$ 17.91B",
-    "Atualizado Em":"2026-06-03 23:44:27"
+    "Atualizado Em":"2026-06-04 23:09:56"
   },
   {
     "Ticker":"ITSA4",
+    "Erro":null,
     "Nome":"Itaúsa S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Industrials",
@@ -983,12 +1059,13 @@
     "Dividendos 12M":"R$ 1.23",
     "DY (%)":"9.75%",
     "P\/VP":1.57,
-    "Liquidez":"31.00M",
+    "Liquidez":"31.02M",
     "Patrimônio":"R$ 141.27B",
-    "Atualizado Em":"2026-06-03 23:44:27"
+    "Atualizado Em":"2026-06-04 23:09:57"
   },
   {
     "Ticker":"ITUB4",
+    "Erro":null,
     "Nome":"Itaú Unibanco Holding S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Financial Services",
@@ -996,12 +1073,13 @@
     "Dividendos 12M":"R$ 3.41",
     "DY (%)":"8.81%",
     "P\/VP":2.04,
-    "Liquidez":"29.00M",
+    "Liquidez":"29.23M",
     "Patrimônio":"R$ 426.76B",
-    "Atualizado Em":"2026-06-03 23:44:28"
+    "Atualizado Em":"2026-06-04 23:09:57"
   },
   {
     "Ticker":"KLBN11",
+    "Erro":null,
     "Nome":"Klabin S.A.",
     "Categoria":"FII\/UNIT",
     "Setor":"Basic Materials",
@@ -1011,10 +1089,11 @@
     "P\/VP":2.28,
     "Liquidez":"5.34M",
     "Patrimônio":"R$ 119.10B",
-    "Atualizado Em":"2026-06-03 23:44:28"
+    "Atualizado Em":"2026-06-04 23:09:58"
   },
   {
     "Ticker":"LREN3",
+    "Erro":null,
     "Nome":"Lojas Renner S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Consumer Cyclical",
@@ -1022,12 +1101,13 @@
     "Dividendos 12M":"R$ 0.87",
     "DY (%)":"5.96%",
     "P\/VP":1.38,
-    "Liquidez":"16.78M",
+    "Liquidez":"16.94M",
     "Patrimônio":"R$ 14.29B",
-    "Atualizado Em":"2026-06-03 23:44:29"
+    "Atualizado Em":"2026-06-04 23:09:58"
   },
   {
     "Ticker":"MGLU3",
+    "Erro":null,
     "Nome":"Magazine Luiza S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Consumer Cyclical",
@@ -1035,12 +1115,13 @@
     "Dividendos 12M":"R$ 0.08",
     "DY (%)":"1.52%",
     "P\/VP":0.37,
-    "Liquidez":"17.51M",
+    "Liquidez":"17.60M",
     "Patrimônio":"R$ 4.14B",
-    "Atualizado Em":"2026-06-03 23:44:29"
+    "Atualizado Em":"2026-06-04 23:09:59"
   },
   {
     "Ticker":"MULT3",
+    "Erro":null,
     "Nome":"Multiplan Empreendimentos Imobiliários S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Real Estate",
@@ -1048,12 +1129,13 @@
     "Dividendos 12M":"R$ 1.08",
     "DY (%)":"3.78%",
     "P\/VP":2.17,
-    "Liquidez":"3.43M",
+    "Liquidez":"3.45M",
     "Patrimônio":"R$ 14.07B",
-    "Atualizado Em":"2026-06-03 23:44:29"
+    "Atualizado Em":"2026-06-04 23:09:59"
   },
   {
     "Ticker":"PCAR3",
+    "Erro":null,
     "Nome":"Companhia Brasileira De Distribuicao",
     "Categoria":"AÇÃO",
     "Setor":"Consumer Cyclical",
@@ -1061,12 +1143,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.36,
-    "Liquidez":"7.50M",
+    "Liquidez":"7.14M",
     "Patrimônio":"R$ 757.58M",
-    "Atualizado Em":"2026-06-03 23:44:30"
+    "Atualizado Em":"2026-06-04 23:09:59"
   },
   {
     "Ticker":"PETR3",
+    "Erro":null,
     "Nome":"Petróleo Brasileiro S.A. - Petrobras",
     "Categoria":"AÇÃO",
     "Setor":"Energy",
@@ -1074,12 +1157,13 @@
     "Dividendos 12M":"R$ 2.97",
     "DY (%)":"6.46%",
     "P\/VP":1.42,
-    "Liquidez":"14.88M",
+    "Liquidez":"14.87M",
     "Patrimônio":"R$ 592.24B",
-    "Atualizado Em":"2026-06-03 23:44:30"
+    "Atualizado Em":"2026-06-04 23:10:00"
   },
   {
     "Ticker":"PETR4",
+    "Erro":null,
     "Nome":"Petróleo Brasileiro S.A. - Petrobras",
     "Categoria":"AÇÃO",
     "Setor":"Energy",
@@ -1087,12 +1171,13 @@
     "Dividendos 12M":"R$ 2.97",
     "DY (%)":"7.19%",
     "P\/VP":1.19,
-    "Liquidez":"54.69M",
+    "Liquidez":"54.56M",
     "Patrimônio":"R$ 563.62B",
-    "Atualizado Em":"2026-06-03 23:44:31"
+    "Atualizado Em":"2026-06-04 23:10:00"
   },
   {
     "Ticker":"PRIO3",
+    "Erro":null,
     "Nome":"Prio S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Energy",
@@ -1100,12 +1185,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":1.9,
-    "Liquidez":"14.57M",
+    "Liquidez":"14.54M",
     "Patrimônio":"R$ 50.34B",
-    "Atualizado Em":"2026-06-03 23:44:31"
+    "Atualizado Em":"2026-06-04 23:10:01"
   },
   {
     "Ticker":"RADL3",
+    "Erro":null,
     "Nome":"Raia Drogasil S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Healthcare",
@@ -1113,12 +1199,13 @@
     "Dividendos 12M":"R$ 0.40",
     "DY (%)":"2.28%",
     "P\/VP":4.17,
-    "Liquidez":"11.23M",
+    "Liquidez":"11.15M",
     "Patrimônio":"R$ 30.62B",
-    "Atualizado Em":"2026-06-03 23:44:31"
+    "Atualizado Em":"2026-06-04 23:10:01"
   },
   {
     "Ticker":"RAIL3",
+    "Erro":null,
     "Nome":"Rumo S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Industrials",
@@ -1126,12 +1213,13 @@
     "Dividendos 12M":"R$ 0.92",
     "DY (%)":"6.62%",
     "P\/VP":1.86,
-    "Liquidez":"13.25M",
+    "Liquidez":"13.34M",
     "Patrimônio":"R$ 25.78B",
-    "Atualizado Em":"2026-06-03 23:44:32"
+    "Atualizado Em":"2026-06-04 23:10:01"
   },
   {
     "Ticker":"RAIZ4",
+    "Erro":null,
     "Nome":"Raízen S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Utilities",
@@ -1139,12 +1227,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":-2.53,
-    "Liquidez":"26.64M",
+    "Liquidez":"25.59M",
     "Patrimônio":"R$ 4.03B",
-    "Atualizado Em":"2026-06-03 23:44:32"
+    "Atualizado Em":"2026-06-04 23:10:02"
   },
   {
     "Ticker":"RECV3",
+    "Erro":null,
     "Nome":"Petroreconcavo S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Energy",
@@ -1152,12 +1241,13 @@
     "Dividendos 12M":"R$ 1.36",
     "DY (%)":"12.55%",
     "P\/VP":0.76,
-    "Liquidez":"3.53M",
-    "Patrimônio":"R$ 3.18B",
-    "Atualizado Em":"2026-06-03 23:44:32"
+    "Liquidez":"3.47M",
+    "Patrimônio":"R$ 3.19B",
+    "Atualizado Em":"2026-06-04 23:10:02"
   },
   {
     "Ticker":"RENT3",
+    "Erro":null,
     "Nome":"Localiza Rent a Car S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Industrials",
@@ -1165,12 +1255,13 @@
     "Dividendos 12M":"R$ 2.06",
     "DY (%)":"5.09%",
     "P\/VP":1.68,
-    "Liquidez":"9.64M",
+    "Liquidez":"9.65M",
     "Patrimônio":"R$ 44.30B",
-    "Atualizado Em":"2026-06-03 23:44:33"
+    "Atualizado Em":"2026-06-04 23:10:02"
   },
   {
     "Ticker":"SANB11",
+    "Erro":null,
     "Nome":"Banco Santander (Brasil) S.A.",
     "Categoria":"FII\/UNIT",
     "Setor":"Financial Services",
@@ -1178,12 +1269,13 @@
     "Dividendos 12M":"R$ 2.31",
     "DY (%)":"8.64%",
     "P\/VP":0.79,
-    "Liquidez":"2.96M",
+    "Liquidez":"2.98M",
     "Patrimônio":"R$ 143.58B",
-    "Atualizado Em":"2026-06-03 23:44:33"
+    "Atualizado Em":"2026-06-04 23:10:03"
   },
   {
     "Ticker":"SBSP3",
+    "Erro":null,
     "Nome":"Companhia de Saneamento Básico do Estado de São Paulo - SABESP",
     "Categoria":"AÇÃO",
     "Setor":"Utilities",
@@ -1191,12 +1283,13 @@
     "Dividendos 12M":"R$ 0.69",
     "DY (%)":"2.55%",
     "P\/VP":2.19,
-    "Liquidez":"16.57M",
+    "Liquidez":"16.68M",
     "Patrimônio":"R$ 95.49B",
-    "Atualizado Em":"2026-06-03 23:44:34"
+    "Atualizado Em":"2026-06-04 23:10:03"
   },
   {
     "Ticker":"SLCE3",
+    "Erro":null,
     "Nome":"SLC Agrícola S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Consumer Defensive",
@@ -1204,12 +1297,13 @@
     "Dividendos 12M":"R$ 0.81",
     "DY (%)":"5.37%",
     "P\/VP":1.48,
-    "Liquidez":"3.27M",
+    "Liquidez":"3.34M",
     "Patrimônio":"R$ 7.44B",
-    "Atualizado Em":"2026-06-03 23:44:34"
+    "Atualizado Em":"2026-06-04 23:10:03"
   },
   {
     "Ticker":"SMTO3",
+    "Erro":null,
     "Nome":"São Martinho S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Basic Materials",
@@ -1217,12 +1311,13 @@
     "Dividendos 12M":"R$ 0.46",
     "DY (%)":"2.64%",
     "P\/VP":0.77,
-    "Liquidez":"2.90M",
+    "Liquidez":"2.89M",
     "Patrimônio":"R$ 5.58B",
-    "Atualizado Em":"2026-06-03 23:44:34"
+    "Atualizado Em":"2026-06-04 23:10:04"
   },
   {
     "Ticker":"SUZB3",
+    "Erro":null,
     "Nome":"Suzano S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Basic Materials",
@@ -1230,12 +1325,13 @@
     "Dividendos 12M":"R$ 1.12",
     "DY (%)":"2.72%",
     "P\/VP":1.16,
-    "Liquidez":"7.11M",
+    "Liquidez":"7.13M",
     "Patrimônio":"R$ 50.95B",
-    "Atualizado Em":"2026-06-03 23:44:35"
+    "Atualizado Em":"2026-06-04 23:10:04"
   },
   {
     "Ticker":"TAEE11",
+    "Erro":null,
     "Nome":"Transmissora Aliança de Energia Elétrica S.A.",
     "Categoria":"FII\/UNIT",
     "Setor":"Utilities",
@@ -1245,10 +1341,11 @@
     "P\/VP":1.76,
     "Liquidez":"2.06M",
     "Patrimônio":"R$ 40.09B",
-    "Atualizado Em":"2026-06-03 23:44:35"
+    "Atualizado Em":"2026-06-04 23:10:05"
   },
   {
     "Ticker":"TIMS3",
+    "Erro":null,
     "Nome":"TIM S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Communication Services",
@@ -1256,12 +1353,13 @@
     "Dividendos 12M":"R$ 1.42",
     "DY (%)":"6.36%",
     "P\/VP":2.19,
-    "Liquidez":"5.43M",
+    "Liquidez":"5.45M",
     "Patrimônio":"R$ 53.36B",
-    "Atualizado Em":"2026-06-03 23:44:35"
+    "Atualizado Em":"2026-06-04 23:10:05"
   },
   {
     "Ticker":"TOTS3",
+    "Erro":null,
     "Nome":"TOTVS S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Technology",
@@ -1269,12 +1367,13 @@
     "Dividendos 12M":"R$ 0.65",
     "DY (%)":"1.93%",
     "P\/VP":3.87,
-    "Liquidez":"6.94M",
+    "Liquidez":"7.02M",
     "Patrimônio":"R$ 19.49B",
-    "Atualizado Em":"2026-06-03 23:44:36"
+    "Atualizado Em":"2026-06-04 23:10:05"
   },
   {
     "Ticker":"UGPA3",
+    "Erro":null,
     "Nome":"Ultrapar Participações S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Energy",
@@ -1282,12 +1381,13 @@
     "Dividendos 12M":"R$ 1.30",
     "DY (%)":"5.22%",
     "P\/VP":1.7,
-    "Liquidez":"6.46M",
+    "Liquidez":"6.45M",
     "Patrimônio":"R$ 26.63B",
-    "Atualizado Em":"2026-06-03 23:44:36"
+    "Atualizado Em":"2026-06-04 23:10:06"
   },
   {
     "Ticker":"USIM5",
+    "Erro":null,
     "Nome":"Usinas Siderúrgicas de Minas Gerais S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Basic Materials",
@@ -1295,12 +1395,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.69,
-    "Liquidez":"15.01M",
+    "Liquidez":"15.09M",
     "Patrimônio":"R$ 14.11B",
-    "Atualizado Em":"2026-06-03 23:44:37"
+    "Atualizado Em":"2026-06-04 23:10:06"
   },
   {
     "Ticker":"VALE3",
+    "Erro":null,
     "Nome":"Vale S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Basic Materials",
@@ -1308,12 +1409,13 @@
     "Dividendos 12M":"R$ 5.48",
     "DY (%)":"6.7%",
     "P\/VP":1.82,
-    "Liquidez":"19.92M",
+    "Liquidez":"19.94M",
     "Patrimônio":"R$ 348.68B",
-    "Atualizado Em":"2026-06-03 23:44:37"
+    "Atualizado Em":"2026-06-04 23:10:07"
   },
   {
     "Ticker":"VBBR3",
+    "Erro":null,
     "Nome":"Vibra Energia S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Consumer Cyclical",
@@ -1321,12 +1423,13 @@
     "Dividendos 12M":"R$ 1.09",
     "DY (%)":"3.71%",
     "P\/VP":1.62,
-    "Liquidez":"8.67M",
+    "Liquidez":"8.77M",
     "Patrimônio":"R$ 35.17B",
-    "Atualizado Em":"2026-06-03 23:44:37"
+    "Atualizado Em":"2026-06-04 23:10:07"
   },
   {
     "Ticker":"VIVA3",
+    "Erro":null,
     "Nome":"Vivara Participações S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Consumer Cyclical",
@@ -1334,12 +1437,13 @@
     "Dividendos 12M":"R$ 0.70",
     "DY (%)":"3.4%",
     "P\/VP":1.63,
-    "Liquidez":"3.38M",
+    "Liquidez":"3.42M",
     "Patrimônio":"R$ 4.82B",
-    "Atualizado Em":"2026-06-03 23:44:38"
+    "Atualizado Em":"2026-06-04 23:10:07"
   },
   {
     "Ticker":"VIVT3",
+    "Erro":null,
     "Nome":"Telefônica Brasil S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Communication Services",
@@ -1347,12 +1451,13 @@
     "Dividendos 12M":"R$ 2.42",
     "DY (%)":"7.17%",
     "P\/VP":1.57,
-    "Liquidez":"4.88M",
+    "Liquidez":"4.94M",
     "Patrimônio":"R$ 107.85B",
-    "Atualizado Em":"2026-06-03 23:44:38"
+    "Atualizado Em":"2026-06-04 23:10:08"
   },
   {
     "Ticker":"WEGE3",
+    "Erro":null,
     "Nome":"WEG S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Industrials",
@@ -1360,12 +1465,13 @@
     "Dividendos 12M":"R$ 2.17",
     "DY (%)":"5.19%",
     "P\/VP":10.07,
-    "Liquidez":"7.48M",
+    "Liquidez":"7.49M",
     "Patrimônio":"R$ 175.30B",
-    "Atualizado Em":"2026-06-03 23:44:38"
+    "Atualizado Em":"2026-06-04 23:10:08"
   },
   {
     "Ticker":"YDUQ3",
+    "Erro":null,
     "Nome":"Yduqs Participações S.A.",
     "Categoria":"AÇÃO",
     "Setor":"Consumer Defensive",
@@ -1373,12 +1479,13 @@
     "Dividendos 12M":"R$ 0.57",
     "DY (%)":"6.42%",
     "P\/VP":0.77,
-    "Liquidez":"4.58M",
+    "Liquidez":"4.64M",
     "Patrimônio":"R$ 2.31B",
-    "Atualizado Em":"2026-06-03 23:44:39"
+    "Atualizado Em":"2026-06-04 23:10:09"
   },
   {
     "Ticker":"ACWI11",
+    "Erro":null,
     "Nome":"Trend Etf Msci Acwi Fundo De Indice",
     "Categoria":"FII\/UNIT",
     "Setor":"N\/D",
@@ -1386,12 +1493,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"103.40K",
+    "Liquidez":"102.95K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-06-03 23:44:39"
+    "Atualizado Em":"2026-06-04 23:10:09"
   },
   {
     "Ticker":"B5P211",
+    "Erro":null,
     "Nome":"It Now Ima-B5 P2 Fundo De Indice",
     "Categoria":"FII\/UNIT",
     "Setor":"N\/D",
@@ -1399,12 +1507,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"131.72K",
+    "Liquidez":"131.16K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-06-03 23:44:39"
+    "Atualizado Em":"2026-06-04 23:10:09"
   },
   {
     "Ticker":"BOVA11",
+    "Erro":null,
     "Nome":"iShares Ibovespa Index Fund",
     "Categoria":"FII\/UNIT",
     "Setor":"N\/D",
@@ -1412,12 +1521,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"4.30M",
+    "Liquidez":"4.33M",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-06-03 23:44:40"
+    "Atualizado Em":"2026-06-04 23:10:10"
   },
   {
     "Ticker":"BOVB11",
+    "Erro":null,
     "Nome":"ETF Bradesco Ibovespa Fundo De Indice",
     "Categoria":"FII\/UNIT",
     "Setor":"N\/D",
@@ -1425,12 +1535,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"36.66K",
+    "Liquidez":"36.61K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-06-03 23:44:40"
+    "Atualizado Em":"2026-06-04 23:10:10"
   },
   {
     "Ticker":"BOVV11",
+    "Erro":null,
     "Nome":"It Now Ibovespa Fundo de Indice",
     "Categoria":"FII\/UNIT",
     "Setor":"N\/D",
@@ -1438,12 +1549,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"486.82K",
+    "Liquidez":"489.25K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-06-03 23:44:40"
+    "Atualizado Em":"2026-06-04 23:10:10"
   },
   {
     "Ticker":"DIVO11",
+    "Erro":null,
     "Nome":"It Now IDIV Index Fund",
     "Categoria":"FII\/UNIT",
     "Setor":"N\/D",
@@ -1451,12 +1563,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"130.61K",
+    "Liquidez":"131.29K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-06-03 23:44:40"
+    "Atualizado Em":"2026-06-04 23:10:11"
   },
   {
     "Ticker":"ECOO11",
+    "Erro":null,
     "Nome":"iShares Índice Carbono Eficiente (ICO2) Brasil - Fundo de Índice",
     "Categoria":"FII\/UNIT",
     "Setor":"N\/D",
@@ -1466,10 +1579,11 @@
     "P\/VP":0.0,
     "Liquidez":"197.00",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-06-03 23:44:41"
+    "Atualizado Em":"2026-06-04 23:10:11"
   },
   {
     "Ticker":"FIND11",
+    "Erro":null,
     "Nome":"It Now IFNC Index Fund",
     "Categoria":"FII\/UNIT",
     "Setor":"N\/D",
@@ -1477,12 +1591,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"34.41K",
+    "Liquidez":"34.61K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-06-03 23:44:41"
+    "Atualizado Em":"2026-06-04 23:10:11"
   },
   {
     "Ticker":"GOLD11",
+    "Erro":null,
     "Nome":"Trend Etf Lbma Ouro Fundo Investimento Cotas De Fundo De Andice Investimento Exterior",
     "Categoria":"FII\/UNIT",
     "Setor":"N\/D",
@@ -1490,12 +1605,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"1.64M",
+    "Liquidez":"1.65M",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-06-03 23:44:41"
+    "Atualizado Em":"2026-06-04 23:10:12"
   },
   {
     "Ticker":"HASH11",
+    "Erro":null,
     "Nome":"Hashdex Nasdaq Crypto Index Fundo De Indice",
     "Categoria":"FII\/UNIT",
     "Setor":"N\/D",
@@ -1503,12 +1619,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"367.07K",
+    "Liquidez":"359.07K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-06-03 23:44:41"
+    "Atualizado Em":"2026-06-04 23:10:12"
   },
   {
     "Ticker":"IMAB11",
+    "Erro":null,
     "Nome":"It Now Id ETF Ima-B Fundo De Indice",
     "Categoria":"FII\/UNIT",
     "Setor":"N\/D",
@@ -1516,12 +1633,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"126.41K",
+    "Liquidez":"125.57K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-06-03 23:44:42"
+    "Atualizado Em":"2026-06-04 23:10:12"
   },
   {
     "Ticker":"IVVB11",
+    "Erro":null,
     "Nome":"iShares S&P 500 Fundo de Investimento - Investimento No Exterior",
     "Categoria":"FII\/UNIT",
     "Setor":"N\/D",
@@ -1529,12 +1647,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"150.55K",
+    "Liquidez":"149.96K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-06-03 23:44:42"
+    "Atualizado Em":"2026-06-04 23:10:12"
   },
   {
     "Ticker":"LFTS11",
+    "Erro":null,
     "Nome":"Investo Teva Tesouro Selic Etf - Fundo De Investimento De Indice",
     "Categoria":"FII\/UNIT",
     "Setor":"N\/D",
@@ -1542,12 +1661,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"245.11K",
+    "Liquidez":"235.71K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-06-03 23:44:42"
+    "Atualizado Em":"2026-06-04 23:10:13"
   },
   {
     "Ticker":"MATB11",
+    "Erro":null,
     "Nome":"It Now IMAT Index Fund",
     "Categoria":"FII\/UNIT",
     "Setor":"N\/D",
@@ -1555,12 +1675,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"33.15K",
+    "Liquidez":"32.96K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-06-03 23:44:42"
+    "Atualizado Em":"2026-06-04 23:10:13"
   },
   {
     "Ticker":"NASD11",
+    "Erro":null,
     "Nome":"Trend Etf Nasdaq 100 Fundo De Investimento De Indice - Investimento No Exterior",
     "Categoria":"FII\/UNIT",
     "Setor":"N\/D",
@@ -1568,12 +1689,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"818.91K",
+    "Liquidez":"824.27K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-06-03 23:44:43"
+    "Atualizado Em":"2026-06-04 23:10:13"
   },
   {
     "Ticker":"PIBB11",
+    "Erro":null,
     "Nome":"It Now PIBB IBrX-50 Index Fund",
     "Categoria":"FII\/UNIT",
     "Setor":"N\/D",
@@ -1581,12 +1703,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"9.50K",
+    "Liquidez":"8.96K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-06-03 23:44:43"
+    "Atualizado Em":"2026-06-04 23:10:14"
   },
   {
     "Ticker":"SMAL11",
+    "Erro":null,
     "Nome":"iShares BM&FBovespa Small Cap Fundo de Índice",
     "Categoria":"FII\/UNIT",
     "Setor":"N\/D",
@@ -1596,10 +1719,11 @@
     "P\/VP":0.0,
     "Liquidez":"2.68M",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-06-03 23:44:43"
+    "Atualizado Em":"2026-06-04 23:10:14"
   },
   {
     "Ticker":"SPXI11",
+    "Erro":null,
     "Nome":"It Now S&P500 TRN Fundo de Índice",
     "Categoria":"FII\/UNIT",
     "Setor":"N\/D",
@@ -1607,12 +1731,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"125.12K",
+    "Liquidez":"124.09K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-06-03 23:44:44"
+    "Atualizado Em":"2026-06-04 23:10:14"
   },
   {
     "Ticker":"TECK11",
+    "Erro":null,
     "Nome":"It Now Nyse Fang+ Fundo De Indice",
     "Categoria":"FII\/UNIT",
     "Setor":"N\/D",
@@ -1620,12 +1745,13 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"114.97K",
+    "Liquidez":"114.60K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-06-03 23:44:44"
+    "Atualizado Em":"2026-06-04 23:10:15"
   },
   {
     "Ticker":"XFIX11",
+    "Erro":null,
     "Nome":"TREND ETF IFIX-L CLASSE DE ÍNDICE - RESPONSABILIDADE LIMITADA",
     "Categoria":"FII\/UNIT",
     "Setor":"N\/D",
@@ -1633,8 +1759,8 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"21.96K",
+    "Liquidez":"22.23K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-06-03 23:44:44"
+    "Atualizado Em":"2026-06-04 23:10:15"
   }
 ]
