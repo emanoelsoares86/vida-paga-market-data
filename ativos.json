@@ -10,7 +10,8 @@
     "P\/VP":0.0,
     "Liquidez":"328.67K",
     "Patrimônio":"R$ 1.22B",
-    "Atualizado Em":"2026-08-29 03:32:09"
+    "Atualizado Em":"2026-08-29 23:55:08",
+    "Erro":null
   },
   {
     "Ticker":"BTAL11",
@@ -23,7 +24,8 @@
     "P\/VP":0.71,
     "Liquidez":"6.09K",
     "Patrimônio":"R$ 484.42M",
-    "Atualizado Em":"2026-08-29 03:32:09"
+    "Atualizado Em":"2026-08-29 23:55:08",
+    "Erro":null
   },
   {
     "Ticker":"BTLG11",
@@ -36,7 +38,8 @@
     "P\/VP":0.96,
     "Liquidez":"128.08K",
     "Patrimônio":"R$ 4.29B",
-    "Atualizado Em":"2026-08-29 03:32:10"
+    "Atualizado Em":"2026-08-29 23:55:08",
+    "Erro":null
   },
   {
     "Ticker":"CPTS11",
@@ -49,7 +52,8 @@
     "P\/VP":0.0,
     "Liquidez":"1.04M",
     "Patrimônio":"R$ 2.45B",
-    "Atualizado Em":"2026-08-29 03:32:10"
+    "Atualizado Em":"2026-08-29 23:55:09",
+    "Erro":null
   },
   {
     "Ticker":"DEVA11",
@@ -62,7 +66,8 @@
     "P\/VP":0.0,
     "Liquidez":"28.16K",
     "Patrimônio":"R$ 247.19M",
-    "Atualizado Em":"2026-08-29 03:32:10"
+    "Atualizado Em":"2026-08-29 23:55:09",
+    "Erro":null
   },
   {
     "Ticker":"GGRC11",
@@ -73,9 +78,10 @@
     "Dividendos 12M":"R$ 1.10",
     "DY (%)":"12.14%",
     "P\/VP":0.0,
-    "Liquidez":"1.63M",
+    "Liquidez":"1.64M",
     "Patrimônio":"R$ 1.38B",
-    "Atualizado Em":"2026-08-29 03:32:11"
+    "Atualizado Em":"2026-08-29 23:55:09",
+    "Erro":null
   },
   {
     "Ticker":"HCTR11",
@@ -86,9 +92,10 @@
     "Dividendos 12M":"R$ 3.39",
     "DY (%)":"24.03%",
     "P\/VP":0.0,
-    "Liquidez":"38.85K",
+    "Liquidez":"38.80K",
     "Patrimônio":"R$ 311.61M",
-    "Atualizado Em":"2026-08-29 03:32:11"
+    "Atualizado Em":"2026-08-29 23:55:10",
+    "Erro":null
   },
   {
     "Ticker":"HFOF11",
@@ -101,7 +108,8 @@
     "P\/VP":0.0,
     "Liquidez":"323.10K",
     "Patrimônio":"R$ 1.41B",
-    "Atualizado Em":"2026-08-29 03:32:11"
+    "Atualizado Em":"2026-08-29 23:55:10",
+    "Erro":null
   },
   {
     "Ticker":"HGBS11",
@@ -112,9 +120,10 @@
     "Dividendos 12M":"R$ 1.93",
     "DY (%)":"10.42%",
     "P\/VP":0.89,
-    "Liquidez":"227.63K",
+    "Liquidez":"225.73K",
     "Patrimônio":"R$ 2.39B",
-    "Atualizado Em":"2026-08-29 03:32:12"
+    "Atualizado Em":"2026-08-29 23:55:10",
+    "Erro":null
   },
   {
     "Ticker":"HGCR11",
@@ -127,7 +136,8 @@
     "P\/VP":0.0,
     "Liquidez":"34.80K",
     "Patrimônio":"R$ 1.46B",
-    "Atualizado Em":"2026-08-29 03:32:12"
+    "Atualizado Em":"2026-08-29 23:55:11",
+    "Erro":null
   },
   {
     "Ticker":"HGFF11",
@@ -140,7 +150,8 @@
     "P\/VP":0.0,
     "Liquidez":"0.00",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-08-29 03:32:12"
+    "Atualizado Em":"2026-08-29 23:55:11",
+    "Erro":null
   },
   {
     "Ticker":"HGLG11",
@@ -153,7 +164,8 @@
     "P\/VP":0.94,
     "Liquidez":"109.51K",
     "Patrimônio":"R$ 5.01B",
-    "Atualizado Em":"2026-08-29 03:32:13"
+    "Atualizado Em":"2026-08-29 23:55:12",
+    "Erro":null
   },
   {
     "Ticker":"HGPO11",
@@ -166,7 +178,8 @@
     "P\/VP":0.0,
     "Liquidez":"0.00",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-08-29 03:32:13"
+    "Atualizado Em":"2026-08-29 23:55:12",
+    "Erro":null
   },
   {
     "Ticker":"HSML11",
@@ -179,20 +192,22 @@
     "P\/VP":0.0,
     "Liquidez":"47.14K",
     "Patrimônio":"R$ 1.76B",
-    "Atualizado Em":"2026-08-29 03:32:13"
+    "Atualizado Em":"2026-08-29 23:55:12",
+    "Erro":null
   },
   {
     "Ticker":"IRDM11",
-    "Nome":"Fundo Investimento Imobiliario Iridium Recebiveis Imobiliarios",
-    "Categoria":"FII\/UNIT",
-    "Setor":"N\/D",
-    "Preço Atual":"R$ 58.50",
-    "Dividendos 12M":"R$ 0.00",
-    "DY (%)":"0.0%",
-    "P\/VP":0.0,
-    "Liquidez":"0.00",
-    "Patrimônio":"R$ 2.13B",
-    "Atualizado Em":"2026-08-29 03:32:14"
+    "Nome":null,
+    "Categoria":null,
+    "Setor":null,
+    "Preço Atual":null,
+    "Dividendos 12M":null,
+    "DY (%)":null,
+    "P\/VP":null,
+    "Liquidez":null,
+    "Patrimônio":null,
+    "Atualizado Em":null,
+    "Erro":"'NoneType' object has no attribute 'index'"
   },
   {
     "Ticker":"JSRE11",
@@ -203,9 +218,10 @@
     "Dividendos 12M":"R$ 5.78",
     "DY (%)":"9.67%",
     "P\/VP":0.55,
-    "Liquidez":"53.28K",
+    "Liquidez":"52.86K",
     "Patrimônio":"R$ 1.24B",
-    "Atualizado Em":"2026-08-29 03:32:14"
+    "Atualizado Em":"2026-08-29 23:55:13",
+    "Erro":null
   },
   {
     "Ticker":"KFOF11",
@@ -218,7 +234,8 @@
     "P\/VP":0.0,
     "Liquidez":"13.37K",
     "Patrimônio":"R$ 539.98M",
-    "Atualizado Em":"2026-08-29 03:32:14"
+    "Atualizado Em":"2026-08-29 23:55:13",
+    "Erro":null
   },
   {
     "Ticker":"KNCR11",
@@ -231,7 +248,8 @@
     "P\/VP":1.07,
     "Liquidez":"199.24K",
     "Patrimônio":"R$ 8.26B",
-    "Atualizado Em":"2026-08-29 03:32:15"
+    "Atualizado Em":"2026-08-29 23:55:14",
+    "Erro":null
   },
   {
     "Ticker":"KNHY11",
@@ -242,9 +260,10 @@
     "Dividendos 12M":"R$ 13.08",
     "DY (%)":"13.53%",
     "P\/VP":0.0,
-    "Liquidez":"41.90K",
+    "Liquidez":"42.18K",
     "Patrimônio":"R$ 2.72B",
-    "Atualizado Em":"2026-08-29 03:32:15"
+    "Atualizado Em":"2026-08-29 23:55:14",
+    "Erro":null
   },
   {
     "Ticker":"KNIP11",
@@ -255,9 +274,10 @@
     "Dividendos 12M":"R$ 10.16",
     "DY (%)":"11.13%",
     "P\/VP":0.0,
-    "Liquidez":"111.81K",
+    "Liquidez":"111.42K",
     "Patrimônio":"R$ 7.31B",
-    "Atualizado Em":"2026-08-29 03:32:15"
+    "Atualizado Em":"2026-08-29 23:55:14",
+    "Erro":null
   },
   {
     "Ticker":"KNRI11",
@@ -270,7 +290,8 @@
     "P\/VP":0.98,
     "Liquidez":"50.16K",
     "Patrimônio":"R$ 4.43B",
-    "Atualizado Em":"2026-08-29 03:32:16"
+    "Atualizado Em":"2026-08-29 23:55:15",
+    "Erro":null
   },
   {
     "Ticker":"LVBI11",
@@ -283,7 +304,8 @@
     "P\/VP":0.0,
     "Liquidez":"33.83K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-08-29 03:32:16"
+    "Atualizado Em":"2026-08-29 23:55:15",
+    "Erro":null
   },
   {
     "Ticker":"MXRF11",
@@ -296,7 +318,8 @@
     "P\/VP":0.94,
     "Liquidez":"1.61M",
     "Patrimônio":"R$ 4.28B",
-    "Atualizado Em":"2026-08-29 03:32:16"
+    "Atualizado Em":"2026-08-29 23:55:15",
+    "Erro":null
   },
   {
     "Ticker":"PATL11",
@@ -309,7 +332,8 @@
     "P\/VP":0.0,
     "Liquidez":"0.00",
     "Patrimônio":"R$ 320.21M",
-    "Atualizado Em":"2026-08-29 03:32:17"
+    "Atualizado Em":"2026-08-29 23:55:16",
+    "Erro":null
   },
   {
     "Ticker":"PVBI11",
@@ -322,7 +346,8 @@
     "P\/VP":0.0,
     "Liquidez":"54.61K",
     "Patrimônio":"R$ 1.83B",
-    "Atualizado Em":"2026-08-29 03:32:17"
+    "Atualizado Em":"2026-08-29 23:55:16",
+    "Erro":null
   },
   {
     "Ticker":"RBRF11",
@@ -335,7 +360,8 @@
     "P\/VP":0.0,
     "Liquidez":"0.00",
     "Patrimônio":"R$ 909.77M",
-    "Atualizado Em":"2026-08-29 03:32:17"
+    "Atualizado Em":"2026-08-29 23:55:16",
+    "Erro":null
   },
   {
     "Ticker":"RBRR11",
@@ -346,9 +372,10 @@
     "Dividendos 12M":"R$ 9.88",
     "DY (%)":"13.42%",
     "P\/VP":0.0,
-    "Liquidez":"55.77K",
+    "Liquidez":"56.01K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-08-29 03:32:18"
+    "Atualizado Em":"2026-08-29 23:55:17",
+    "Erro":null
   },
   {
     "Ticker":"RECR11",
@@ -359,9 +386,10 @@
     "Dividendos 12M":"R$ 10.44",
     "DY (%)":"13.32%",
     "P\/VP":0.0,
-    "Liquidez":"38.80K",
+    "Liquidez":"38.41K",
     "Patrimônio":"R$ 2.93B",
-    "Atualizado Em":"2026-08-29 03:32:18"
+    "Atualizado Em":"2026-08-29 23:55:17",
+    "Erro":null
   },
   {
     "Ticker":"RECT11",
@@ -374,7 +402,8 @@
     "P\/VP":0.0,
     "Liquidez":"12.44K",
     "Patrimônio":"R$ 24.65M",
-    "Atualizado Em":"2026-08-29 03:32:18"
+    "Atualizado Em":"2026-08-29 23:55:17",
+    "Erro":null
   },
   {
     "Ticker":"SNCI11",
@@ -387,7 +416,8 @@
     "P\/VP":0.0,
     "Liquidez":"5.45K",
     "Patrimônio":"R$ 346.84M",
-    "Atualizado Em":"2026-08-29 03:32:19"
+    "Atualizado Em":"2026-08-29 23:55:18",
+    "Erro":null
   },
   {
     "Ticker":"TGAR11",
@@ -400,7 +430,8 @@
     "P\/VP":0.0,
     "Liquidez":"88.95K",
     "Patrimônio":"R$ 1.07B",
-    "Atualizado Em":"2026-08-29 03:32:19"
+    "Atualizado Em":"2026-08-29 23:55:18",
+    "Erro":null
   },
   {
     "Ticker":"TRXF11",
@@ -413,7 +444,8 @@
     "P\/VP":0.0,
     "Liquidez":"324.39K",
     "Patrimônio":"R$ 2.54B",
-    "Atualizado Em":"2026-08-29 03:32:20"
+    "Atualizado Em":"2026-08-29 23:55:18",
+    "Erro":null
   },
   {
     "Ticker":"URPR11",
@@ -426,7 +458,8 @@
     "P\/VP":0.0,
     "Liquidez":"35.07K",
     "Patrimônio":"R$ 240.43M",
-    "Atualizado Em":"2026-08-29 03:32:20"
+    "Atualizado Em":"2026-08-29 23:55:19",
+    "Erro":null
   },
   {
     "Ticker":"VGHF11",
@@ -439,7 +472,8 @@
     "P\/VP":0.0,
     "Liquidez":"437.45K",
     "Patrimônio":"R$ 894.44M",
-    "Atualizado Em":"2026-08-29 03:32:20"
+    "Atualizado Em":"2026-08-29 23:55:19",
+    "Erro":null
   },
   {
     "Ticker":"VISC11",
@@ -452,7 +486,8 @@
     "P\/VP":0.0,
     "Liquidez":"56.03K",
     "Patrimônio":"R$ 2.94B",
-    "Atualizado Em":"2026-08-29 03:32:20"
+    "Atualizado Em":"2026-08-29 23:55:19",
+    "Erro":null
   },
   {
     "Ticker":"VRTA11",
@@ -465,7 +500,8 @@
     "P\/VP":0.8,
     "Liquidez":"29.38K",
     "Patrimônio":"R$ 1.14B",
-    "Atualizado Em":"2026-08-29 03:32:21"
+    "Atualizado Em":"2026-08-29 23:55:20",
+    "Erro":null
   },
   {
     "Ticker":"XPCM11",
@@ -478,7 +514,8 @@
     "P\/VP":0.1,
     "Liquidez":"2.64K",
     "Patrimônio":"R$ 19.13M",
-    "Atualizado Em":"2026-08-29 03:32:21"
+    "Atualizado Em":"2026-08-29 23:55:21",
+    "Erro":null
   },
   {
     "Ticker":"XPIN11",
@@ -491,7 +528,8 @@
     "P\/VP":0.0,
     "Liquidez":"4.63K",
     "Patrimônio":"R$ 443.61M",
-    "Atualizado Em":"2026-08-29 03:32:22"
+    "Atualizado Em":"2026-08-29 23:55:21",
+    "Erro":null
   },
   {
     "Ticker":"XPML11",
@@ -504,7 +542,8 @@
     "P\/VP":0.0,
     "Liquidez":"162.47K",
     "Patrimônio":"R$ 5.67B",
-    "Atualizado Em":"2026-08-29 03:32:22"
+    "Atualizado Em":"2026-08-29 23:55:22",
+    "Erro":null
   },
   {
     "Ticker":"ABEV3",
@@ -517,7 +556,8 @@
     "P\/VP":2.66,
     "Liquidez":"26.15M",
     "Patrimônio":"R$ 234.23B",
-    "Atualizado Em":"2026-08-29 03:32:22"
+    "Atualizado Em":"2026-08-29 23:55:22",
+    "Erro":null
   },
   {
     "Ticker":"ALOS3",
@@ -530,7 +570,8 @@
     "P\/VP":1.03,
     "Liquidez":"4.68M",
     "Patrimônio":"R$ 13.21B",
-    "Atualizado Em":"2026-08-29 03:32:23"
+    "Atualizado Em":"2026-08-29 23:55:22",
+    "Erro":null
   },
   {
     "Ticker":"ALPA4",
@@ -543,7 +584,8 @@
     "P\/VP":2.7,
     "Liquidez":"1.59M",
     "Patrimônio":"R$ 9.78B",
-    "Atualizado Em":"2026-08-29 03:32:23"
+    "Atualizado Em":"2026-08-29 23:55:23",
+    "Erro":null
   },
   {
     "Ticker":"AMER3",
@@ -556,7 +598,8 @@
     "P\/VP":0.23,
     "Liquidez":"1.66M",
     "Patrimônio":"R$ 939.15M",
-    "Atualizado Em":"2026-08-29 03:32:24"
+    "Atualizado Em":"2026-08-29 23:55:23",
+    "Erro":null
   },
   {
     "Ticker":"ASAI3",
@@ -569,7 +612,8 @@
     "P\/VP":1.72,
     "Liquidez":"10.28M",
     "Patrimônio":"R$ 10.92B",
-    "Atualizado Em":"2026-08-29 03:32:24"
+    "Atualizado Em":"2026-08-29 23:55:24",
+    "Erro":null
   },
   {
     "Ticker":"B3SA3",
@@ -582,7 +626,8 @@
     "P\/VP":4.29,
     "Liquidez":"38.24M",
     "Patrimônio":"R$ 80.05B",
-    "Atualizado Em":"2026-08-29 03:32:24"
+    "Atualizado Em":"2026-08-29 23:55:24",
+    "Erro":null
   },
   {
     "Ticker":"BBAS3",
@@ -595,7 +640,8 @@
     "P\/VP":0.63,
     "Liquidez":"23.20M",
     "Patrimônio":"R$ 115.15B",
-    "Atualizado Em":"2026-08-29 03:32:25"
+    "Atualizado Em":"2026-08-29 23:55:24",
+    "Erro":null
   },
   {
     "Ticker":"BBDC3",
@@ -608,7 +654,8 @@
     "P\/VP":0.88,
     "Liquidez":"6.82M",
     "Patrimônio":"R$ 159.26B",
-    "Atualizado Em":"2026-08-29 03:32:25"
+    "Atualizado Em":"2026-08-29 23:55:25",
+    "Erro":null
   },
   {
     "Ticker":"BBDC4",
@@ -620,8 +667,9 @@
     "DY (%)":"9.09%",
     "P\/VP":1.0,
     "Liquidez":"31.21M",
-    "Patrimônio":"R$ 185.71B",
-    "Atualizado Em":"2026-08-29 03:32:26"
+    "Patrimônio":"R$ 186.03B",
+    "Atualizado Em":"2026-08-29 23:55:25",
+    "Erro":null
   },
   {
     "Ticker":"BBSE3",
@@ -634,7 +682,8 @@
     "P\/VP":7.13,
     "Liquidez":"6.50M",
     "Patrimônio":"R$ 77.69B",
-    "Atualizado Em":"2026-08-29 03:32:26"
+    "Atualizado Em":"2026-08-29 23:55:26",
+    "Erro":null
   },
   {
     "Ticker":"BEEF3",
@@ -647,7 +696,8 @@
     "P\/VP":2.44,
     "Liquidez":"12.68M",
     "Patrimônio":"R$ 3.85B",
-    "Atualizado Em":"2026-08-29 03:32:26"
+    "Atualizado Em":"2026-08-29 23:55:26",
+    "Erro":null
   },
   {
     "Ticker":"BPAC11",
@@ -660,7 +710,8 @@
     "P\/VP":3.21,
     "Liquidez":"10.72M",
     "Patrimônio":"R$ 180.54B",
-    "Atualizado Em":"2026-08-29 03:32:27"
+    "Atualizado Em":"2026-08-29 23:55:26",
+    "Erro":null
   },
   {
     "Ticker":"BRAP4",
@@ -673,7 +724,8 @@
     "P\/VP":1.09,
     "Liquidez":"1.82M",
     "Patrimônio":"R$ 8.73B",
-    "Atualizado Em":"2026-08-29 03:32:27"
+    "Atualizado Em":"2026-08-29 23:55:27",
+    "Erro":null
   },
   {
     "Ticker":"BRKM5",
@@ -684,9 +736,10 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":-0.28,
-    "Liquidez":"8.62M",
+    "Liquidez":"8.68M",
     "Patrimônio":"R$ 3.47B",
-    "Atualizado Em":"2026-08-29 03:32:28"
+    "Atualizado Em":"2026-08-29 23:55:27",
+    "Erro":null
   },
   {
     "Ticker":"CMIG4",
@@ -699,7 +752,8 @@
     "P\/VP":1.03,
     "Liquidez":"13.91M",
     "Patrimônio":"R$ 30.07B",
-    "Atualizado Em":"2026-08-29 03:32:28"
+    "Atualizado Em":"2026-08-29 23:55:28",
+    "Erro":null
   },
   {
     "Ticker":"CMIN3",
@@ -712,7 +766,8 @@
     "P\/VP":4.42,
     "Liquidez":"9.05M",
     "Patrimônio":"R$ 32.29B",
-    "Atualizado Em":"2026-08-29 03:32:28"
+    "Atualizado Em":"2026-08-29 23:55:28",
+    "Erro":null
   },
   {
     "Ticker":"COGN3",
@@ -725,7 +780,8 @@
     "P\/VP":0.33,
     "Liquidez":"25.28M",
     "Patrimônio":"R$ 4.48B",
-    "Atualizado Em":"2026-08-29 03:32:29"
+    "Atualizado Em":"2026-08-29 23:55:28",
+    "Erro":null
   },
   {
     "Ticker":"CPFE3",
@@ -738,7 +794,8 @@
     "P\/VP":2.27,
     "Liquidez":"1.38M",
     "Patrimônio":"R$ 51.62B",
-    "Atualizado Em":"2026-08-29 03:32:29"
+    "Atualizado Em":"2026-08-29 23:55:29",
+    "Erro":null
   },
   {
     "Ticker":"CSAN3",
@@ -751,7 +808,8 @@
     "P\/VP":2.99,
     "Liquidez":"30.24M",
     "Patrimônio":"R$ 14.87B",
-    "Atualizado Em":"2026-08-29 03:32:30"
+    "Atualizado Em":"2026-08-29 23:55:29",
+    "Erro":null
   },
   {
     "Ticker":"CSMG3",
@@ -764,7 +822,8 @@
     "P\/VP":2.34,
     "Liquidez":"5.13M",
     "Patrimônio":"R$ 20.75B",
-    "Atualizado Em":"2026-08-29 03:32:30"
+    "Atualizado Em":"2026-08-29 23:55:30",
+    "Erro":null
   },
   {
     "Ticker":"CSNA3",
@@ -777,7 +836,8 @@
     "P\/VP":0.57,
     "Liquidez":"15.87M",
     "Patrimônio":"R$ 6.91B",
-    "Atualizado Em":"2026-08-29 03:32:31"
+    "Atualizado Em":"2026-08-29 23:55:30",
+    "Erro":null
   },
   {
     "Ticker":"CVCB3",
@@ -790,7 +850,8 @@
     "P\/VP":2.77,
     "Liquidez":"12.83M",
     "Patrimônio":"R$ 895.77M",
-    "Atualizado Em":"2026-08-29 03:32:31"
+    "Atualizado Em":"2026-08-29 23:55:31",
+    "Erro":null
   },
   {
     "Ticker":"CYRE3",
@@ -803,7 +864,8 @@
     "P\/VP":0.9,
     "Liquidez":"6.89M",
     "Patrimônio":"R$ 8.43B",
-    "Atualizado Em":"2026-08-29 03:32:32"
+    "Atualizado Em":"2026-08-29 23:55:31",
+    "Erro":null
   },
   {
     "Ticker":"DXCO3",
@@ -816,7 +878,8 @@
     "P\/VP":0.68,
     "Liquidez":"1.78M",
     "Patrimônio":"R$ 4.72B",
-    "Atualizado Em":"2026-08-29 03:32:32"
+    "Atualizado Em":"2026-08-29 23:55:31",
+    "Erro":null
   },
   {
     "Ticker":"EGIE3",
@@ -827,9 +890,10 @@
     "Dividendos 12M":"R$ 1.12",
     "DY (%)":"3.87%",
     "P\/VP":2.19,
-    "Liquidez":"3.62M",
+    "Liquidez":"3.56M",
     "Patrimônio":"R$ 40.81B",
-    "Atualizado Em":"2026-08-29 03:32:32"
+    "Atualizado Em":"2026-08-29 23:55:32",
+    "Erro":null
   },
   {
     "Ticker":"ENEV3",
@@ -841,8 +905,9 @@
     "DY (%)":"0.0%",
     "P\/VP":2.47,
     "Liquidez":"8.78M",
-    "Patrimônio":"R$ 50.31B",
-    "Atualizado Em":"2026-08-29 03:32:33"
+    "Patrimônio":"R$ 50.51B",
+    "Atualizado Em":"2026-08-29 23:55:32",
+    "Erro":null
   },
   {
     "Ticker":"ENGI11",
@@ -855,7 +920,8 @@
     "P\/VP":0.93,
     "Liquidez":"2.94M",
     "Patrimônio":"R$ 14.51B",
-    "Atualizado Em":"2026-08-29 03:32:33"
+    "Atualizado Em":"2026-08-29 23:55:33",
+    "Erro":null
   },
   {
     "Ticker":"EQTL3",
@@ -868,7 +934,8 @@
     "P\/VP":1.77,
     "Liquidez":"8.75M",
     "Patrimônio":"R$ 46.17B",
-    "Atualizado Em":"2026-08-29 03:32:34"
+    "Atualizado Em":"2026-08-29 23:55:33",
+    "Erro":null
   },
   {
     "Ticker":"EZTC3",
@@ -881,7 +948,8 @@
     "P\/VP":0.62,
     "Liquidez":"2.08M",
     "Patrimônio":"R$ 3.26B",
-    "Atualizado Em":"2026-08-29 03:32:34"
+    "Atualizado Em":"2026-08-29 23:55:33",
+    "Erro":null
   },
   {
     "Ticker":"FLRY3",
@@ -894,7 +962,8 @@
     "P\/VP":2.06,
     "Liquidez":"2.87M",
     "Patrimônio":"R$ 10.26B",
-    "Atualizado Em":"2026-08-29 03:32:35"
+    "Atualizado Em":"2026-08-29 23:55:34",
+    "Erro":null
   },
   {
     "Ticker":"GGBR4",
@@ -905,9 +974,10 @@
     "Dividendos 12M":"R$ 0.79",
     "DY (%)":"3.32%",
     "P\/VP":0.87,
-    "Liquidez":"10.44M",
+    "Liquidez":"10.20M",
     "Patrimônio":"R$ 46.70B",
-    "Atualizado Em":"2026-08-29 03:32:35"
+    "Atualizado Em":"2026-08-29 23:55:34",
+    "Erro":null
   },
   {
     "Ticker":"GOAU4",
@@ -920,7 +990,8 @@
     "P\/VP":0.72,
     "Liquidez":"8.42M",
     "Patrimônio":"R$ 13.78B",
-    "Atualizado Em":"2026-08-29 03:32:36"
+    "Atualizado Em":"2026-08-29 23:55:35",
+    "Erro":null
   },
   {
     "Ticker":"HAPV3",
@@ -933,7 +1004,8 @@
     "P\/VP":0.06,
     "Liquidez":"6.85M",
     "Patrimônio":"R$ 3.08B",
-    "Atualizado Em":"2026-08-29 03:32:36"
+    "Atualizado Em":"2026-08-29 23:55:35",
+    "Erro":null
   },
   {
     "Ticker":"HYPE3",
@@ -946,7 +1018,8 @@
     "P\/VP":1.04,
     "Liquidez":"2.86M",
     "Patrimônio":"R$ 15.04B",
-    "Atualizado Em":"2026-08-29 03:32:36"
+    "Atualizado Em":"2026-08-29 23:55:36",
+    "Erro":null
   },
   {
     "Ticker":"IRBR3",
@@ -959,7 +1032,8 @@
     "P\/VP":0.86,
     "Liquidez":"464.57K",
     "Patrimônio":"R$ 4.56B",
-    "Atualizado Em":"2026-08-29 03:32:37"
+    "Atualizado Em":"2026-08-29 23:55:36",
+    "Erro":null
   },
   {
     "Ticker":"ISAE4",
@@ -972,7 +1046,8 @@
     "P\/VP":0.79,
     "Liquidez":"3.05M",
     "Patrimônio":"R$ 18.84B",
-    "Atualizado Em":"2026-08-29 03:32:38"
+    "Atualizado Em":"2026-08-29 23:55:36",
+    "Erro":null
   },
   {
     "Ticker":"ITSA4",
@@ -985,7 +1060,8 @@
     "P\/VP":1.55,
     "Liquidez":"26.96M",
     "Patrimônio":"R$ 145.14B",
-    "Atualizado Em":"2026-08-29 03:32:38"
+    "Atualizado Em":"2026-08-29 23:55:37",
+    "Erro":null
   },
   {
     "Ticker":"ITUB4",
@@ -998,7 +1074,8 @@
     "P\/VP":1.98,
     "Liquidez":"24.45M",
     "Patrimônio":"R$ 431.95B",
-    "Atualizado Em":"2026-08-29 03:32:39"
+    "Atualizado Em":"2026-08-29 23:55:37",
+    "Erro":null
   },
   {
     "Ticker":"KLBN11",
@@ -1011,7 +1088,8 @@
     "P\/VP":2.45,
     "Liquidez":"4.90M",
     "Patrimônio":"R$ 134.09B",
-    "Atualizado Em":"2026-08-29 03:32:39"
+    "Atualizado Em":"2026-08-29 23:55:38",
+    "Erro":null
   },
   {
     "Ticker":"LREN3",
@@ -1024,7 +1102,8 @@
     "P\/VP":0.99,
     "Liquidez":"16.16M",
     "Patrimônio":"R$ 10.28B",
-    "Atualizado Em":"2026-08-29 03:32:39"
+    "Atualizado Em":"2026-08-29 23:55:38",
+    "Erro":null
   },
   {
     "Ticker":"MGLU3",
@@ -1037,7 +1116,8 @@
     "P\/VP":0.32,
     "Liquidez":"22.19M",
     "Patrimônio":"R$ 3.58B",
-    "Atualizado Em":"2026-08-29 03:32:40"
+    "Atualizado Em":"2026-08-29 23:55:39",
+    "Erro":null
   },
   {
     "Ticker":"MULT3",
@@ -1048,9 +1128,10 @@
     "Dividendos 12M":"R$ 1.12",
     "DY (%)":"4.1%",
     "P\/VP":1.99,
-    "Liquidez":"3.41M",
+    "Liquidez":"3.42M",
     "Patrimônio":"R$ 13.44B",
-    "Atualizado Em":"2026-08-29 03:32:40"
+    "Atualizado Em":"2026-08-29 23:55:39",
+    "Erro":null
   },
   {
     "Ticker":"PCAR3",
@@ -1063,7 +1144,8 @@
     "P\/VP":3.18,
     "Liquidez":"4.89M",
     "Patrimônio":"R$ 1.30B",
-    "Atualizado Em":"2026-08-29 03:32:41"
+    "Atualizado Em":"2026-08-29 23:55:39",
+    "Erro":null
   },
   {
     "Ticker":"PETR3",
@@ -1074,9 +1156,10 @@
     "Dividendos 12M":"R$ 3.66",
     "DY (%)":"7.59%",
     "P\/VP":1.29,
-    "Liquidez":"10.40M",
+    "Liquidez":"10.19M",
     "Patrimônio":"R$ 621.88B",
-    "Atualizado Em":"2026-08-29 03:32:41"
+    "Atualizado Em":"2026-08-29 23:55:40",
+    "Erro":null
   },
   {
     "Ticker":"PETR4",
@@ -1089,7 +1172,8 @@
     "P\/VP":1.17,
     "Liquidez":"40.05M",
     "Patrimônio":"R$ 595.04B",
-    "Atualizado Em":"2026-08-29 03:32:42"
+    "Atualizado Em":"2026-08-29 23:55:40",
+    "Erro":null
   },
   {
     "Ticker":"PRIO3",
@@ -1100,9 +1184,10 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":1.71,
-    "Liquidez":"7.70M",
+    "Liquidez":"7.67M",
     "Patrimônio":"R$ 48.28B",
-    "Atualizado Em":"2026-08-29 03:32:42"
+    "Atualizado Em":"2026-08-29 23:55:41",
+    "Erro":null
   },
   {
     "Ticker":"RADL3",
@@ -1112,10 +1197,11 @@
     "Preço Atual":"R$ 19.36",
     "Dividendos 12M":"R$ 0.44",
     "DY (%)":"2.27%",
-    "P\/VP":4.61,
+    "P\/VP":4.64,
     "Liquidez":"10.44M",
     "Patrimônio":"R$ 33.85B",
-    "Atualizado Em":"2026-08-29 03:32:42"
+    "Atualizado Em":"2026-08-29 23:55:41",
+    "Erro":null
   },
   {
     "Ticker":"RAIL3",
@@ -1127,8 +1213,9 @@
     "DY (%)":"0.73%",
     "P\/VP":1.91,
     "Liquidez":"11.59M",
-    "Patrimônio":"R$ 27.61B",
-    "Atualizado Em":"2026-08-29 03:32:43"
+    "Patrimônio":"R$ 27.62B",
+    "Atualizado Em":"2026-08-29 23:55:41",
+    "Erro":null
   },
   {
     "Ticker":"RAIZ4",
@@ -1141,7 +1228,8 @@
     "P\/VP":-0.21,
     "Liquidez":"15.75M",
     "Patrimônio":"R$ 2.38B",
-    "Atualizado Em":"2026-08-29 03:32:43"
+    "Atualizado Em":"2026-08-29 23:55:42",
+    "Erro":null
   },
   {
     "Ticker":"RECV3",
@@ -1153,8 +1241,9 @@
     "DY (%)":"16.04%",
     "P\/VP":0.7,
     "Liquidez":"2.15M",
-    "Patrimônio":"R$ 3.11B",
-    "Atualizado Em":"2026-08-29 03:32:43"
+    "Patrimônio":"R$ 3.12B",
+    "Atualizado Em":"2026-08-29 23:55:42",
+    "Erro":null
   },
   {
     "Ticker":"RENT3",
@@ -1167,7 +1256,8 @@
     "P\/VP":1.42,
     "Liquidez":"8.53M",
     "Patrimônio":"R$ 38.45B",
-    "Atualizado Em":"2026-08-29 03:32:44"
+    "Atualizado Em":"2026-08-29 23:55:42",
+    "Erro":null
   },
   {
     "Ticker":"SANB11",
@@ -1180,7 +1270,8 @@
     "P\/VP":0.88,
     "Liquidez":"4.72M",
     "Patrimônio":"R$ 161.26B",
-    "Atualizado Em":"2026-08-29 03:32:44"
+    "Atualizado Em":"2026-08-29 23:55:43",
+    "Erro":null
   },
   {
     "Ticker":"SBSP3",
@@ -1193,7 +1284,8 @@
     "P\/VP":1.97,
     "Liquidez":"16.81M",
     "Patrimônio":"R$ 88.76B",
-    "Atualizado Em":"2026-08-29 03:32:45"
+    "Atualizado Em":"2026-08-29 23:55:43",
+    "Erro":null
   },
   {
     "Ticker":"SLCE3",
@@ -1206,7 +1298,8 @@
     "P\/VP":1.44,
     "Liquidez":"3.15M",
     "Patrimônio":"R$ 7.82B",
-    "Atualizado Em":"2026-08-29 03:32:45"
+    "Atualizado Em":"2026-08-29 23:55:44",
+    "Erro":null
   },
   {
     "Ticker":"SMTO3",
@@ -1219,7 +1312,8 @@
     "P\/VP":0.81,
     "Liquidez":"1.91M",
     "Patrimônio":"R$ 6.00B",
-    "Atualizado Em":"2026-08-29 03:32:45"
+    "Atualizado Em":"2026-08-29 23:55:44",
+    "Erro":null
   },
   {
     "Ticker":"SUZB3",
@@ -1232,7 +1326,8 @@
     "P\/VP":1.3,
     "Liquidez":"6.19M",
     "Patrimônio":"R$ 56.64B",
-    "Atualizado Em":"2026-08-29 03:32:46"
+    "Atualizado Em":"2026-08-29 23:55:45",
+    "Erro":null
   },
   {
     "Ticker":"TAEE11",
@@ -1245,7 +1340,8 @@
     "P\/VP":1.67,
     "Liquidez":"1.78M",
     "Patrimônio":"R$ 39.98B",
-    "Atualizado Em":"2026-08-29 03:32:46"
+    "Atualizado Em":"2026-08-29 23:55:45",
+    "Erro":null
   },
   {
     "Ticker":"TIMS3",
@@ -1257,8 +1353,9 @@
     "DY (%)":"7.95%",
     "P\/VP":1.79,
     "Liquidez":"7.29M",
-    "Patrimônio":"R$ 43.71B",
-    "Atualizado Em":"2026-08-29 03:32:47"
+    "Patrimônio":"R$ 43.47B",
+    "Atualizado Em":"2026-08-29 23:55:46",
+    "Erro":null
   },
   {
     "Ticker":"TOTS3",
@@ -1271,7 +1368,8 @@
     "P\/VP":3.61,
     "Liquidez":"4.57M",
     "Patrimônio":"R$ 19.62B",
-    "Atualizado Em":"2026-08-29 03:32:47"
+    "Atualizado Em":"2026-08-29 23:55:46",
+    "Erro":null
   },
   {
     "Ticker":"UGPA3",
@@ -1283,8 +1381,9 @@
     "DY (%)":"5.95%",
     "P\/VP":2.18,
     "Liquidez":"8.94M",
-    "Patrimônio":"R$ 35.78B",
-    "Atualizado Em":"2026-08-29 03:32:48"
+    "Patrimônio":"R$ 35.84B",
+    "Atualizado Em":"2026-08-29 23:55:46",
+    "Erro":null
   },
   {
     "Ticker":"USIM5",
@@ -1297,7 +1396,8 @@
     "P\/VP":0.43,
     "Liquidez":"11.67M",
     "Patrimônio":"R$ 8.86B",
-    "Atualizado Em":"2026-08-29 03:32:48"
+    "Atualizado Em":"2026-08-29 23:55:47",
+    "Erro":null
   },
   {
     "Ticker":"VALE3",
@@ -1310,7 +1410,8 @@
     "P\/VP":1.7,
     "Liquidez":"17.65M",
     "Patrimônio":"R$ 334.42B",
-    "Atualizado Em":"2026-08-29 03:32:49"
+    "Atualizado Em":"2026-08-29 23:55:47",
+    "Erro":null
   },
   {
     "Ticker":"VBBR3",
@@ -1321,9 +1422,10 @@
     "Dividendos 12M":"R$ 1.56",
     "DY (%)":"4.67%",
     "P\/VP":1.83,
-    "Liquidez":"8.79M",
+    "Liquidez":"8.71M",
     "Patrimônio":"R$ 39.93B",
-    "Atualizado Em":"2026-08-29 03:32:49"
+    "Atualizado Em":"2026-08-29 23:55:47",
+    "Erro":null
   },
   {
     "Ticker":"VIVA3",
@@ -1336,7 +1438,8 @@
     "P\/VP":1.7,
     "Liquidez":"2.92M",
     "Patrimônio":"R$ 5.17B",
-    "Atualizado Em":"2026-08-29 03:32:49"
+    "Atualizado Em":"2026-08-29 23:55:48",
+    "Erro":null
   },
   {
     "Ticker":"VIVT3",
@@ -1346,10 +1449,11 @@
     "Preço Atual":"R$ 29.61",
     "Dividendos 12M":"R$ 2.52",
     "DY (%)":"8.49%",
-    "P\/VP":1.36,
+    "P\/VP":1.38,
     "Liquidez":"5.18M",
     "Patrimônio":"R$ 94.62B",
-    "Atualizado Em":"2026-08-29 03:32:50"
+    "Atualizado Em":"2026-08-29 23:55:48",
+    "Erro":null
   },
   {
     "Ticker":"WEGE3",
@@ -1359,10 +1463,11 @@
     "Preço Atual":"R$ 49.98",
     "Dividendos 12M":"R$ 2.01",
     "DY (%)":"4.01%",
-    "P\/VP":11.12,
+    "P\/VP":12.04,
     "Liquidez":"7.72M",
     "Patrimônio":"R$ 209.71B",
-    "Atualizado Em":"2026-08-29 03:32:50"
+    "Atualizado Em":"2026-08-29 23:55:49",
+    "Erro":null
   },
   {
     "Ticker":"YDUQ3",
@@ -1373,9 +1478,10 @@
     "Dividendos 12M":"R$ 0.57",
     "DY (%)":"6.44%",
     "P\/VP":0.77,
-    "Liquidez":"3.93M",
+    "Liquidez":"3.94M",
     "Patrimônio":"R$ 2.25B",
-    "Atualizado Em":"2026-08-29 03:32:51"
+    "Atualizado Em":"2026-08-29 23:55:49",
+    "Erro":null
   },
   {
     "Ticker":"ACWI11",
@@ -1386,9 +1492,10 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"86.31K",
+    "Liquidez":"85.60K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-08-29 03:32:51"
+    "Atualizado Em":"2026-08-29 23:55:49",
+    "Erro":null
   },
   {
     "Ticker":"B5P211",
@@ -1399,9 +1506,10 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"125.41K",
+    "Liquidez":"126.51K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-08-29 03:32:51"
+    "Atualizado Em":"2026-08-29 23:55:50",
+    "Erro":null
   },
   {
     "Ticker":"BOVA11",
@@ -1412,9 +1520,10 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"3.12M",
+    "Liquidez":"3.14M",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-08-29 03:32:52"
+    "Atualizado Em":"2026-08-29 23:55:50",
+    "Erro":null
   },
   {
     "Ticker":"BOVB11",
@@ -1425,9 +1534,10 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"41.12K",
+    "Liquidez":"40.94K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-08-29 03:32:52"
+    "Atualizado Em":"2026-08-29 23:55:50",
+    "Erro":null
   },
   {
     "Ticker":"BOVV11",
@@ -1438,9 +1548,10 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"453.76K",
+    "Liquidez":"476.55K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-08-29 03:32:52"
+    "Atualizado Em":"2026-08-29 23:55:51",
+    "Erro":null
   },
   {
     "Ticker":"DIVO11",
@@ -1451,9 +1562,10 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"179.31K",
+    "Liquidez":"179.88K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-08-29 03:32:53"
+    "Atualizado Em":"2026-08-29 23:55:51",
+    "Erro":null
   },
   {
     "Ticker":"ECOO11",
@@ -1464,9 +1576,10 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"116.00",
+    "Liquidez":"114.00",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-08-29 03:32:53"
+    "Atualizado Em":"2026-08-29 23:55:51",
+    "Erro":null
   },
   {
     "Ticker":"FIND11",
@@ -1477,9 +1590,10 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"35.05K",
+    "Liquidez":"35.09K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-08-29 03:32:53"
+    "Atualizado Em":"2026-08-29 23:55:52",
+    "Erro":null
   },
   {
     "Ticker":"GOLD11",
@@ -1490,9 +1604,10 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"1.94M",
+    "Liquidez":"1.92M",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-08-29 03:32:54"
+    "Atualizado Em":"2026-08-29 23:55:52",
+    "Erro":null
   },
   {
     "Ticker":"HASH11",
@@ -1503,9 +1618,10 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"322.30K",
+    "Liquidez":"322.77K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-08-29 03:32:54"
+    "Atualizado Em":"2026-08-29 23:55:52",
+    "Erro":null
   },
   {
     "Ticker":"IMAB11",
@@ -1516,9 +1632,10 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"100.13K",
+    "Liquidez":"99.39K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-08-29 03:32:54"
+    "Atualizado Em":"2026-08-29 23:55:53",
+    "Erro":null
   },
   {
     "Ticker":"IVVB11",
@@ -1529,9 +1646,10 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"124.46K",
+    "Liquidez":"124.08K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-08-29 03:32:54"
+    "Atualizado Em":"2026-08-29 23:55:53",
+    "Erro":null
   },
   {
     "Ticker":"LFTS11",
@@ -1542,9 +1660,10 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"201.41K",
+    "Liquidez":"200.16K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-08-29 03:32:55"
+    "Atualizado Em":"2026-08-29 23:55:53",
+    "Erro":null
   },
   {
     "Ticker":"MATB11",
@@ -1555,9 +1674,10 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"31.65K",
+    "Liquidez":"30.65K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-08-29 03:32:55"
+    "Atualizado Em":"2026-08-29 23:55:53",
+    "Erro":null
   },
   {
     "Ticker":"NASD11",
@@ -1568,9 +1688,10 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"926.22K",
+    "Liquidez":"928.12K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-08-29 03:32:55"
+    "Atualizado Em":"2026-08-29 23:55:54",
+    "Erro":null
   },
   {
     "Ticker":"PIBB11",
@@ -1581,9 +1702,10 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"5.82K",
+    "Liquidez":"5.74K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-08-29 03:32:56"
+    "Atualizado Em":"2026-08-29 23:55:54",
+    "Erro":null
   },
   {
     "Ticker":"SMAL11",
@@ -1594,9 +1716,10 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"1.90M",
+    "Liquidez":"1.91M",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-08-29 03:32:56"
+    "Atualizado Em":"2026-08-29 23:55:54",
+    "Erro":null
   },
   {
     "Ticker":"SPXI11",
@@ -1607,9 +1730,10 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"129.81K",
+    "Liquidez":"258.52K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-08-29 03:32:56"
+    "Atualizado Em":"2026-08-29 23:55:55",
+    "Erro":null
   },
   {
     "Ticker":"TECK11",
@@ -1620,9 +1744,10 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"86.96K",
+    "Liquidez":"86.44K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-08-29 03:32:57"
+    "Atualizado Em":"2026-08-29 23:55:55",
+    "Erro":null
   },
   {
     "Ticker":"XFIX11",
@@ -1633,8 +1758,9 @@
     "Dividendos 12M":"R$ 0.00",
     "DY (%)":"0.0%",
     "P\/VP":0.0,
-    "Liquidez":"21.27K",
+    "Liquidez":"21.28K",
     "Patrimônio":"R$ 0.00",
-    "Atualizado Em":"2026-08-29 03:32:57"
+    "Atualizado Em":"2026-08-29 23:55:55",
+    "Erro":null
   }
 ]
